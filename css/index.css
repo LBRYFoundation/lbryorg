@@ -1,0 +1,14 @@
+/*Fonts*/
+@font-face {
+  font-family: 'Oxygen';
+  src: url(../fonts/Oxygen/Oxygen-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oxygen, Bold';
+  src: url(../fonts/Oxygen/Oxygen-Bold.ttf) format('truetype');
+}
+/*/Fonts*/
+
+body {
+  font-family: Oxygen;
+}
