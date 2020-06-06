@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>LBRY Foundation</title>
 
+  <!--TitleBar Icon-->
+  <link rel="icon" href="./img/small-logo.png" type="image/png" />
+
   <!-- CSS DEPENDENCIES -->
   <link rel="stylesheet" href="./fontawesome/css/regular.min.css"/>
   <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css"/>
@@ -15,20 +18,21 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
       <div class="container">
-        <a class="navbar-brand order-1 mr-0" href="" target="_blank">github icon here</a>
+        <span class="navbar-brand order-1 mr-0">github icon here</span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
             <a class="nav-item nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#part1">part1</a>
+            <a class="nav-item nav-link" href="#about">about</a>
             <a class="nav-item nav-link" href="#part2">part2</a>
             <a class="nav-item nav-link" href="#part3">part3</a>
           </div>
         </div>
       </div>
-    </nav><!-- /navbar -->
+    </nav>
+    <!-- /navbar -->
     
     <!-- jumbotron -->
     <div class="jumbotron jumbotron-fluid bg-info text-white">
@@ -40,11 +44,12 @@
           <a class="btn btn-light btn-lg" href="#dicord">join discord</a>
         </div>        
       </div>
-    </div><!-- /jumbotron -->
+    </div>
+    <!-- /jumbotron -->
     
     <div class="container pt-4">
       <!-- about -->
-      <div id="part1" class="row">
+      <div id="about" class="row">
         <div class="col-lg order-lg-2">
           <h3 class="mb-4">About LBRY Foundations</h3>
           <img class="mb-4 img-fluid rounded d-none d-sm-block" src="img/4.jpg" alt="4">
@@ -63,7 +68,8 @@
 		      <p>Want to meet the international JavaScript community and share skills with some of the world's top experts, hackers, and makers? Be the first to know what to expect for the future of JavaScript.</p>
 		      <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the LBRY network in a way that the community of LBRYians decides themselves.</p>
         </div>        
-      </div><!-- /about -->
+      </div>
+      <!-- /about -->
       
       <!-- part2 -->
       <h1 id="part2" class="display-4 text-center my-5 text-muted">lbryians</h1>
@@ -72,7 +78,7 @@
 				  <div class="card mb-3">
 			      <img class="card-img-top" src="img/1.png" alt="1">
 			      <div class="card-body">
-			        <h4 class="card-title">developer</h4>
+			        <h4 class="card-title">Developer</h4>
 			        <p class="card-text">developer developer developer developer developer developer developer</p>
 			      </div>
 			    </div>          
@@ -82,7 +88,7 @@
 			    <div class="card mb-3">
 			      <img class="card-img-top" src="img/2.png" alt="2">
 			      <div class="card-body">
-			        <h4 class="card-title">designer</h4>
+			        <h4 class="card-title">Designer</h4>
 			        <p class="card-text">designer designer designer designer designer designer designer designer</p>
 			      </div>
 			    </div>          
@@ -92,19 +98,18 @@
 			    <div class="card">
 			      <img class="card-img-top" src="img/3.png" alt="3">
 			      <div class="card-body">
-			        <h4 class="card-title">creator</h4>
+			        <h4 class="card-title">Creator</h4>
 			        <p class="card-text">creator creator creator creator creator creator creator creator creator</p>
 			      </div>
 			    </div>          
 				</div>
-			</div><!-- /part2 -->
+      </div>
+      <!-- /part2 -->
     
 			<div class="row py-4 text-muted">
 				<div class="col-md col-xl-5">
 					<p><strong>About Foundation</strong></p>
-					<p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the LBRY network in a way that the community of LBRYians decides themselves.
-
-</p>
+          <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the LBRY network in a way that the community of LBRYians decides themselves.</p>
 				</div>
 			  <div class="col-md col-xl-5 ml-auto">
 			  	<p><strong>Stay up-to-date on LBRY Foundation</strong></p>
@@ -130,7 +135,7 @@
             </li>
             <li class="nav-item">
               <div class="btn-group dropup">
-                <button type="button" class="btn btn-outline-secondary">other sites</button>
+                <button type="button" class="btn btn-outline-secondary">Other Sites</button>
                 <button type="button" class="btn btn-outline-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   <span class="sr-only">Toggle Dropdown</span>
                 </button>
@@ -153,8 +158,8 @@
 
  
   <!-- JS DEPENDENCIES -->
-  <script src="./jquery/jquery-3.5.1.min.js"></script>
-  <script src="./bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="./jquery/jquery-3.5.1.min.js" defer></script>
+  <script src="./bootstrap/js/bootstrap.bundle.min.js" defer></script>
   <!-- /JS DEPENDENCIES -->
 </body>
 </html>
