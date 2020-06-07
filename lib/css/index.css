@@ -15,7 +15,7 @@ body {
 }
 
 html {
-  scroll- style="background-color: transparent !important;"behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 
@@ -63,16 +63,21 @@ html {
 }
 /* /Parallax */
 
+/* Global Parallax */
 #global-parallax .parallax-img {
   width: 100%;
   height: 100%;
   margin: 0;
 }
 
+#global-parallax .parallax-mask {
+  position: fixed;
+}
+
 #global-parallax {
-  /* width: 100%; */
   margin: 0;
 }
+/* /Global Parallax */
 
 /* Navbar */
 nav {
