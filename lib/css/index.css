@@ -14,6 +14,11 @@ body {
   font-family: Oxygen;
 }
 
+html {
+  scroll- style="background-color: transparent !important;"behavior: smooth;
+}
+
+
 /* Parallax */
 .parallax .parallax-img {
   z-index: -1;
@@ -34,6 +39,23 @@ body {
   position: absolute;
   height: 100%;
   width: 100%;
+  background-color: teal;
+  opacity: 0.3;
+}
+
+.parallax .parallax-mask {
+  z-index: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.parallax .above-parallax {
+  /* box-shadow: rgba(0, 0, 0, 0.7) 0 0 0.1rem; */
+  background: white;
+  padding: 2rem;
+  z-index: 100;
 }
 
 .parallax {
@@ -43,6 +65,7 @@ body {
 
 #global-parallax .parallax-img {
   width: 100%;
+  height: 100%;
   margin: 0;
 }
 
@@ -50,3 +73,13 @@ body {
   /* width: 100%; */
   margin: 0;
 }
+
+/* Navbar */
+nav {
+  transition: all 1s;
+}
+
+.nav-transparent {
+  background-color: transparent !important;
+}
+/* /Navbar */
