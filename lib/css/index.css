@@ -44,7 +44,7 @@ html {
 }
 
 .parallax .parallax-mask {
-  z-index: 0;
+  z-index: 1;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -68,10 +68,20 @@ html {
   width: 100%;
   height: 100%;
   margin: 0;
+  position: absolute;
 }
 
 #global-parallax .parallax-mask {
   position: fixed;
+  background-color: rgb(30, 100, 230);
+  opacity: 0.5;
+}
+
+#global-parallax .parallax-bg {
+  position: fixed;
+  height: 100%;
+  background-color: black;
+  opacity: 1;
 }
 
 #global-parallax {
