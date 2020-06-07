@@ -30,9 +30,17 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="#about">About</a>
-          <a class="nav-item nav-link" href="#part2">part2</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Home
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#home">Home  <span class="sr-only">(current)</span></a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#about">About</a>
+              <a class="dropdown-item" href="#part2">Part 2</a>
+            </div>
+          </li>
           <a class="nav-item nav-link" href="./branding">Branding</a>
         </div>
       </div>
@@ -54,7 +62,7 @@
           <p class="lead">LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY</p>
           <div class="btn-group mt-4" role="group" aria-label="Callout buttons">
             <a type="button" class="btn btn-primary btn-lg" href="https://lbry.com/get">Download LBRY</a>
-            <a class="btn btn-light btn-lg" href="https://chat.lbry.com">join discord</a>
+            <a class="btn btn-light btn-lg" href="https://chat.lbry.com">Join Discord</a>
           </div>
         </div>
       </div>
@@ -63,14 +71,6 @@
       <div class="container pt-4 above-parallax" style="border-radius: 1rem 1rem 0 0;">
         <!-- about -->
         <div id="about" class="row">
-          <div class="col-lg order-lg-2">
-            <h3 class="mb-4">About LBRY Foundations</h3>
-            <!-- <img class="mb-4 img-fluid rounded d-none d-sm-block" src="./img/lbry-logo.png" alt="4"> -->
-            <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
-              information online.</p>
-            <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
-              LBRY network in a way that the community of LBRYians decides themselves.</p>
-          </div>
           <div class="col-lg order-lg-1">
             <h3 class="mb-4">Welcome to LBRY</h3>
             <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
@@ -80,6 +80,16 @@
             <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
               LBRY network in a way that the community of LBRYians decides themselves.</p>
           </div>
+
+          <div class="col-lg order-lg-2">
+            <h3 class="mb-4">About LBRY Foundations</h3>
+            <!-- <img class="mb-4 img-fluid rounded d-none d-sm-block" src="./img/lbry-logo.png" alt="4"> -->
+            <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
+              information online.</p>
+            <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
+              LBRY network in a way that the community of LBRYians decides themselves.</p>
+          </div>
+          
           <div class="col-lg order-3">
             <h3 class="mb-4">Welcome to LBRY</h3>
             <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
