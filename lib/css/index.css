@@ -100,6 +100,15 @@ nav {
   background-color: transparent !important;
   box-shadow: none;
 }
+
+.nav-item {
+  color: white !important;
+}
+
+.nav-link.active {
+  background-color: rgb(11, 90, 121);
+  border-radius: 0.2rem;
+}
 /* /Navbar */
 
 /* Special Branded Color Classes*/
