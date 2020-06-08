@@ -53,7 +53,8 @@ html {
 
 .parallax .above-parallax {
   /* box-shadow: rgba(0, 0, 0, 0.7) 0 0 0.1rem; */
-  background: white;
+  background: rgba(10, 50, 80, 0.8);
+  color: white;
   padding: 2rem;
   z-index: 100;
 }
