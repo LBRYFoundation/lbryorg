@@ -4,3 +4,6 @@
 - compress all images to reduce load times
 - The current parallax mask color doesn't look good
 - Maybe the parllax mask can add a slight blur
+- Add content to all pages
+- Make the homepage better
+- Titles/headings need WAY better styling 
