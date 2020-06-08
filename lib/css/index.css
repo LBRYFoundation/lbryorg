@@ -98,3 +98,25 @@ nav {
   background-color: transparent !important;
 }
 /* /Navbar */
+
+/* Special Branded Color Classes*/
+.lbry-teal {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-item.active {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-item:active {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-menu {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-item {
+  color: white;
+}
+/* /Special Branded Color Classes*/
