@@ -1,9 +1,9 @@
-- Standardize the styles and colors on all pages
-- Add parallax on all pages
+- ~~Standardize the styles and colors on all pages~~ (https://github.com/LBRYians/lbry-org-new/commit/a5401f216cc473d1249600085c7fba3cba16ddd8)
+- ~~Add parallax on all pages~~(https://github.com/LBRYians/lbry-org-new/commit/a5401f216cc473d1249600085c7fba3cba16ddd8)
 - Make new bg images, one per page (for parallax)
 - compress all images to reduce load times
-- The current parallax mask color doesn't look good
+- *The current parallax mask color doesn't look good* (Subject to change)
 - Add content to all pages
 - Make the homepage better
-- Titles/headings need WAY better styling 
+- Titles/headings need WAY better styling
 - ~~Standardize all navbars~~ (https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
