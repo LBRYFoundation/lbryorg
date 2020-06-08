@@ -73,7 +73,7 @@ html {
 
 #global-parallax .parallax-mask {
   position: fixed;
-  background-color: rgb(30, 100, 230);
+  background-color: rgb(20, 80, 200);
   opacity: 0.5;
 }
 
