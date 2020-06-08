@@ -1,0 +1,6 @@
+- Standardize the styles and colors on all pages
+- Add parallax on all pages
+- Make new bg images, one per page (for parallax)
+- compress all images to reduce load times
+- The current parallax mask color doesn't look good
+- Maybe the parllax mask can add a slight blur
