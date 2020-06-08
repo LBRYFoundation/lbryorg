@@ -52,8 +52,8 @@ html {
 }
 
 .parallax .above-parallax {
-  /* box-shadow: rgba(0, 0, 0, 0.7) 0 0 0.1rem; */
-  background: rgba(10, 50, 80, 0.8);
+  box-shadow: rgba(0, 0, 0, 0.6) 0 0 1rem;
+  background: rgba(5, 20, 40, 0.93);
   color: white;
   padding: 2rem;
   z-index: 100;
@@ -74,8 +74,8 @@ html {
 
 #global-parallax .parallax-mask {
   position: fixed;
-  background-color: rgb(20, 80, 150);
-  opacity: 0.3;
+  background-color: rgb(20, 120, 200);
+  opacity: 0.35;
 }
 
 #global-parallax .parallax-bg {
