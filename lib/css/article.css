@@ -1,0 +1,132 @@
+/* Fonts */
+@font-face {
+  font-family: 'Oxygen';
+  src: url(../fonts/Oxygen/Oxygen-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Oxygen, Bold';
+  src: url(../fonts/Oxygen/Oxygen-Bold.ttf);
+}
+/* /Fonts */
+
+body {
+  font-family: 'Oxygen';
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* Parallax */
+.parallax .parallax-img {
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+}
+
+.parallax .parallax-content {
+  z-index: 100;
+  position: relative;
+  background-color: transparent !important;
+}
+
+.parallax .parallax-bg {
+  z-index: -2;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: teal;
+  opacity: 0.3;
+}
+
+.parallax .parallax-mask {
+  z-index: 1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.parallax .above-parallax {
+  box-shadow: rgba(0, 0, 0, 0.6) 0 0 1rem;
+  background: rgba(5, 20, 40, 0.93);
+  color: white;
+  padding: 2rem;
+  z-index: 100;
+}
+
+.parallax {
+  overflow: hidden;
+}
+/* /Parallax */
+
+/* Global Parallax */
+#global-parallax .parallax-img {
+  width: 100%;
+  margin: 0;
+  position: absolute;
+}
+
+#global-parallax .parallax-mask {
+  position: fixed;
+  background-color: rgb(20, 120, 200);
+  opacity: 0.35;
+}
+
+#global-parallax .parallax-bg {
+  position: fixed;
+  height: 100%;
+  background-color: black;
+  opacity: 1;
+}
+
+#global-parallax {
+  margin: 0;
+}
+/* /Global Parallax */
+
+/* Navbar */
+nav {
+  transition: all 0.4s;
+  box-shadow: rgba(0, 0, 0, 0.6) 0 0 1rem;
+}
+
+.nav-transparent {
+  background-color: transparent !important;
+  box-shadow: none;
+}
+
+.nav-item {
+  color: white !important;
+}
+
+.nav-link.active {
+  background-color: rgb(11, 90, 121);
+  border-radius: 0.2rem;
+}
+/* /Navbar */
+
+/* Special Branded Color Classes*/
+.lbry-teal {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-item.active {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-item:active {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-menu {
+  background-color:rgb(3, 76, 105);
+}
+
+.dropdown-item {
+  color: white;
+}
+/* /Special Branded Color Classes*/
