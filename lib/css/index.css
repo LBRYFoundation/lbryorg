@@ -20,10 +20,8 @@ html {
 
 
 /* Parallax */
-.parallax .parallax-img {
+.parallax .parallax-layer {
   z-index: -1;
-  position: absolute;
-  width: 100%;
   overflow: hidden;
 }
 
@@ -43,7 +41,7 @@ html {
 }
 
 .parallax .parallax-mask {
-  z-index: 1;
+  z-index: 25;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -64,7 +62,7 @@ html {
 /* /Parallax */
 
 /* Global Parallax */
-#global-parallax .parallax-img {
+#global-parallax .main-parallax-img {
   width: 100%;
   margin: 0;
   position: absolute;
