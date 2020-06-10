@@ -111,6 +111,9 @@ nav {
 .lbry-teal {
   background-color:rgb(40, 212, 226);
 }
+.lbry-dark {
+  background-color:rgb(3, 76, 105);
+}
 
 .dropdown-item.active {
   background-color:rgb(3, 76, 105);
