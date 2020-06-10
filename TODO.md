@@ -8,3 +8,4 @@
 - Titles/headings need WAY better styling
 - Footer dropup and other links are totally broken
 - ~~Standardize all navbars~~ (https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
+- Documentation for whole thing
