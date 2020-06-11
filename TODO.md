@@ -10,4 +10,5 @@
 - ~~Standardize all navbars~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
 - Documentation for whole thing
 - Add Fade-in animation for cards in /governance
-- Styled hr
+- Styled hr [Commit](https://github.com/LBRYians/lbry-org-new/commit/6bbb253922c6ab311ce46759b360c76f4b0e2c68)
+- Header Logo
