@@ -1,12 +1,12 @@
-- ~~Standardize the styles and colors on all pages~~ (https://github.com/LBRYians/lbry-org-new/commit/a5401f216cc473d1249600085c7fba3cba16ddd8)
-- ~~Add parallax on all pages~~(https://github.com/LBRYians/lbry-org-new/commit/a5401f216cc473d1249600085c7fba3cba16ddd8)
-- Make new bg images, one per page (for parallax)
+- ~~Standardize the styles and colors on all pages~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/a5401f216cc473d1249600085c7fba3cba16ddd8)
+- ~~Add parallax on all pages~~[Commit](https://github.com/LBRYians/lbry-org-new/commit/a5401f216cc473d1249600085c7fba3cba16ddd8)
+- ~~Make new bg images, one per page (for parallax)~~ Added a common image for all article pages 
 - compress all images to reduce load times
-- *The current parallax mask color doesn't look good* (Subject to change)
+- *The current parallax mask color doesn't look good* (Subject to change) [Commit](https://github.com/LBRYians/lbry-org-new/commit/19f2a9506597525be224c357c8d1987bb227d625)
 - Add content to all pages
 - Make the homepage better
 - Titles/headings need WAY better styling
 - Footer dropup and other links are totally broken
-- ~~Standardize all navbars~~ (https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
+- ~~Standardize all navbars~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
 - Documentation for whole thing
 - Add Fade-in animation for cards in /governance
