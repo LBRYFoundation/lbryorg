@@ -133,19 +133,11 @@ nav {
 /* hr Style for heading*/
 
 hr.heading {
-  overflow: visible; /* For IE */
-  padding: 0;
-  border: none;
-  border-top: medium double #00303C;
-  color: #00303C;
-  text-align: center;
-}
-hr.heading {
-  content: "§";
-  display: inline-block;
-  position: relative;
-  top: -0.7em;
-  font-size: 1.5em;
-  padding: 0 10em;
-  background: #00303C;
+  height: 20px;
+  width: 60%;
+  background-image: radial-gradient(
+    farthest-side at 50% -50%,
+    hsla(0, 0%, 0%, 0.5),
+    hsla(0, 0%, 0%, 0));
+  position: relative; 
 }
