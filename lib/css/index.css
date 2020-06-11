@@ -166,3 +166,10 @@ nav {
   transform: scale(1.05);
 }
 /* /Card animations*/
+
+/* scrollFade */
+.scroll-fade {
+  opacity: 0;
+  transform: scale(0.9);
+}
+/* /scrollFade */
