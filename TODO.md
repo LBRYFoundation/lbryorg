@@ -6,9 +6,10 @@
 - Add content to all pages
 - Make the homepage better
 - Titles/headings need WAY better styling
-- Footer dropup and other links are totally broken
+- ~~Footer dropup and other links are totally broken~~ (Commit)[https://github.com/LBRYians/lbry-org-new/commit/97a7681ea1645251aef2cde1937291ca8c0d373f]
 - ~~Standardize all navbars~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
 - Documentation for whole thing
 - Add Fade-in animation for cards in /governance
 - Styled hr [Commit](https://github.com/LBRYians/lbry-org-new/commit/6bbb253922c6ab311ce46759b360c76f4b0e2c68)
 - Header Logo
+- Add Pop Up modal for policies
