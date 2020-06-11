@@ -131,7 +131,7 @@ nav {
   color: white;
 }
 /* /Special Branded Color Classes*/
-/*Hovering Button Style*/
+/* Hovering Button Style*/
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -156,4 +156,13 @@ nav {
   color: #28D4E2;
 }
 .button1 {border-radius: 13px;}
-/*Hovering Button Style*/
+/* /Hovering Button Style*/
+
+/* Card animations*/
+.card {
+  transition: transform 0.2s;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+/* /Card animations*/
