@@ -13,3 +13,5 @@
 - Styled hr [Commit](https://github.com/LBRYians/lbry-org-new/commit/6bbb253922c6ab311ce46759b360c76f4b0e2c68)
 - Header Logo
 - Add Pop Up modal for policies
+- Navbar dropdown btn is misaligned on small screens
+- Need to mention creative commons icons
