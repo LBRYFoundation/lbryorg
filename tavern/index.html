@@ -31,11 +31,23 @@
       <a class="navbar-brand" href="../">
         <img src="../img/logo.png"  alt="lbry-foundation-logo">
       </a>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="collapse navbar-collapse navbar-dark" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-item nav-link" href="../">Home</a>
           <a class="nav-item nav-link" href="../branding/">Branding</a>
-          <a class="nav-item nav-link active" href="#">Tavern <span class="sr-only">(current)</span></a>
+          <!-- <a class="nav-item nav-link active" href="#">Tavern <span class="sr-only">(current)</span></a> -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Tavern
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#tavern">Tavern<span class="sr-only">(current)</span></a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#lbry_tavern">Welcome to The LBRY Tavern</a>
+              <a class="dropdown-item" href="#initiatives">Initiatives</a>
+              <a class="dropdown-item" href="#project_grants">Project Grants</a>
+            </div>
+          </li>
           <a class="nav-item nav-link" href="../swarm/">Swarm</a>
           <a class="nav-item nav-link" href="../governance/">Governance</a>
           <a class="nav-item nav-link" href="../chat/">Chat</a>
@@ -52,9 +64,9 @@
     <div class="parallax-bg"></div>
 
     <!-- globalParallaxContent -->
-    <div class="parallax-content">
+    <div class="parallax-content" id="tavern">
       <!-- jumbotron -->
-      <div class="jumbotron text-white parallax-layer" data-depth-factor="4" style="background-color: transparent;">
+      <div class="jumbotron text-white parallax-layer" data-depth-factor="4" style="background-color: transparent;" id="#tavern">
         <div class="container text-sm-center pt-5">
           <center><h1 class="display-4" Ideas style="font-weight: bold;">The Tavern</h1></center>
           <hr class="heading">
@@ -78,7 +90,7 @@
             <!--row-->
             <div class="row">
               <!--col-1-->
-              <div class="col-md-12 col-lg-12 my-5">
+              <div class="col-md-12 col-lg-12 my-5" id="lbry_tavern">
                 <h2 class="mb-2 text-white text-center">Welcome to The LBRY Tavern</h2> 
                 <hr class="subhead">
                 <br>
