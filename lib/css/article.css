@@ -151,3 +151,13 @@ hr.content {
     hsla(0, 0%, 0%, 0));
   position: relative; 
 }
+/*hr for sud headings in articles*/
+hr.subhead {
+  height: 20px;
+  width: 80%;
+  background-image: radial-gradient(
+    farthest-side at 50% -50%,
+    hsl(185, 76%, 52%),
+    hsla(0, 0%, 0%, 0));
+  position: relative; 
+}
