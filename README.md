@@ -10,7 +10,7 @@ under devlopment
 </div> <br>
 
 <div align="center">
-  <img src="img/lbry-foundation.jpg" alt="Screenshot of LBRY Foundation">
+  ![Screenshot of LBRY.org](./img/lbry-foundation.jpg)
 </div>
 
 
