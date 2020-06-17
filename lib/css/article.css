@@ -18,6 +18,10 @@ html {
   scroll-behavior: smooth;
 }
 
+html {
+  scroll-padding-top: 80px; /* height of sticky header */
+}
+
 
 /* Parallax */
 .parallax .parallax-img {
