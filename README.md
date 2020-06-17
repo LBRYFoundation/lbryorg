@@ -16,8 +16,8 @@ under devlopment
 
 
 ## Prerequisites
-- Git
-- Text editor
+- Git 
+- Text editor or any code editor (E.g - [VsCode](https://code.visualstudio.com/download) 
 - Web browser
 
 ## Installation
@@ -26,7 +26,8 @@ git clone https://github.com/LBRYians/lbry-org-new.git
 ```
 
 ## Development
-Open `index.html` in your browser and text editor to make changes.
+Open `index.html` in your browser and text editor to make changes. <br>
+If using VsCode studio you can use [Live Server Plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) For getting an instant preview after each change in your default browser
 
 ## Usage
 Visit [LBRY Foundation](https://lbryians.github.io/lbry-org-new/) to see this repo in production.
