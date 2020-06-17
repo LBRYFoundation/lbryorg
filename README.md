@@ -10,7 +10,7 @@ under devlopment
 </div> <br>
 
 <div align="center">
-  ![Screenshot of LBRY.org](./img/lbry-foundation.jpg)
+  ![Screenshot of LBRY.org](../img/lbry-foundation.JPG)
 </div>
 
 
