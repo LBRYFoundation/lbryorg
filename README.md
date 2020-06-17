@@ -10,7 +10,7 @@ under devlopment
 </div> <br>
 
 <div align="center">
-  <img src="./img/lbry-foundation.jpg" alt="Screenshot of LBRY Foundation">
+  <img src="img/lbry-foundation.jpg" alt="Screenshot of LBRY Foundation">
 </div>
 
 
@@ -38,11 +38,3 @@ For more details, see [CONTRIBUTING](https://lbry.tech/contribute).
 
 ## License
 This project is MIT licensed. For the full license, see [LICENSE](LICENSE).
-
-## Security
-We take security seriously. Please contact [security@lbry.com](mailto:security@lbry.com) regarding any security issues.
-
-[Our PGP key is here](https://keybase.io/lbry/key.asc) if you need it.
-
-## Contact
-The primary contact for this project is [Julie Sigwart](https://github.com/jsigwart) (julie+github@lbry.com).
