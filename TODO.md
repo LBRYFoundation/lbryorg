@@ -4,7 +4,7 @@
 - compress all images to reduce load times
 - *The current parallax mask color doesn't look good* (Subject to change) [Commit](https://github.com/LBRYians/lbry-org-new/commit/19f2a9506597525be224c357c8d1987bb227d625)
 - Add content to all pages
-- Titles/headings need WAY better styling
+- ~~Titles/headings need WAY better styling~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/d4d5f7a17c6ccd4f7ba8c8c729446ad4de4544e9)
 - ~~Footer dropup and other links are totally broken~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/97a7681ea1645251aef2cde1937291ca8c0d373f)
 - ~~Standardize all navbars~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/b06c201d8943e85ebd0782e7caef77eaf3aaa272)
 - Documentation for whole thing
@@ -14,3 +14,6 @@
 - Add Pop Up modal for policies
 - ~~Navbar dropdown btn is misaligned on small screens~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/cc50df56f21a3bfecb9afa13cad4ab7b1126e4c2)
 - Need to mention creative commons icons
+- Remove hover effect on the list of hives in /swarm
+- "Edit this page on Github" button needs to be in the footer
+- 
