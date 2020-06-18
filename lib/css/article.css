@@ -22,6 +22,9 @@ html {
   scroll-padding-top: 80px; /* height of sticky header */
 }
 
+iframe {
+  position:absolute; top:0; left: 0
+}
 
 /* Parallax */
 .parallax .parallax-img {

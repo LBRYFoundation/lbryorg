@@ -182,6 +182,24 @@ nav {
 }
 /* /Card animations*/
 
+/* Podcast style*/
+.podcast {
+  padding-bottom:56.25%;
+  position:relative;
+  display:block;
+  width: 100%
+}
+/* /Podcast style*/
+
+/* Podcast animations*/
+.podcast {
+  transition: transform 0.2s;
+}
+.podcast:hover {
+  transform: scale(1.05);
+}
+/* /Podcast animations*/
+
 /* scrollFade */
 .scroll-fade {
   opacity: 0;
