@@ -117,17 +117,17 @@ nav {
 }
 
 .lbry-teal-green {
-  background-color: #28D4E2;
+  background-color: #25d9e0;
   color: #ffffff;
 }
 
 .lbry-dark-green {
-  background-color: #00303C;
+  background-color: #00343e;
   color: #ffffff;
 }
 
 .lbry-dark-green:hover{
-  color: #28D4E2;
+  color: #25d9e0;
 }
 
 .dropdown-item.active {
