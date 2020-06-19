@@ -17,3 +17,4 @@
 - Add edit redirects in github icon
 - Add a background in nav menu for mobile devices
 - ~~Color Code in /Branding~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/c18670e26617b5657f631ab69a76cf15c81f42a4)
+- Add roadmap page
