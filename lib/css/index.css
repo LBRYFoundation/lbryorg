@@ -92,6 +92,10 @@ nav {
   box-shadow: rgba(0, 0, 0, 0.6) 0 0 1rem;
 }
 
+.navbar-collapse {
+  background-color: 072A46 !important;
+}
+
 .nav-transparent {
   background-color: transparent !important;
   box-shadow: none;
