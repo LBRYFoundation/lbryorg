@@ -11,9 +11,9 @@
 - ~~Add Fade-in animation for cards in /governance~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/91715be24b86aeb5b63157a9c1a78955b339e1a0)
 - Styled hr [Commit](https://github.com/LBRYians/lbry-org-new/commit/6bbb253922c6ab311ce46759b360c76f4b0e2c68)
 - ~~Header Logo~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/f5cfecc5e007344ceed70249c4596723f3f0d85b)
-- Add Pop Up modal for policies
 - ~~Navbar dropdown btn is misaligned on small screens~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/cc50df56f21a3bfecb9afa13cad4ab7b1126e4c2)
 - Need to mention creative commons icons
-- Remove hover effect on the list of hives in /swarm
+- ~~Remove hover effect on the list of hives in /swarm~~ [Commit](https://discord.com/channels/564322123737464850/719549730937503784/723184639828557885)
 - Add edit redirects in github icon
 - Add a background in nav menu for mobile devices
+- ~~Color Code in /Branding~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/c18670e26617b5657f631ab69a76cf15c81f42a4)
