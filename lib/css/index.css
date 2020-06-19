@@ -97,6 +97,7 @@ nav {
 }
 
 .nav-transparent {
+  transition: background-color 0.4s;
   background-color: transparent !important;
   box-shadow: none;
 }
