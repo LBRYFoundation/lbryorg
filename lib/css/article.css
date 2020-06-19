@@ -108,6 +108,7 @@ nav {
 
 .nav-item {
   color: white !important;
+  background-color:#072A46;
 }
 
 .nav-link.active {
