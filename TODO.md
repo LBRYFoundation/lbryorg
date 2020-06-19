@@ -15,5 +15,5 @@
 - ~~Navbar dropdown btn is misaligned on small screens~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/cc50df56f21a3bfecb9afa13cad4ab7b1126e4c2)
 - Need to mention creative commons icons
 - Remove hover effect on the list of hives in /swarm
-- "Edit this page on Github" button needs to be in the footer
-- 
+- Add edit redirects in github icon
+- Add a background in nav menu for mobile devices
