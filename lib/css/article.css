@@ -136,6 +136,19 @@ nav {
 .dropdown-item {
   color: white;
 }
+
+/* roadmap styling */
+#accordion a {
+  display: block;
+  background-color: rgb(3, 76, 105);
+}
+
+#accordion a:hover {
+  color: #25d9e0;
+}
+/* /roadmap styling */
+
+*/
 /* /Special Branded Color Classes*/
 /* hr Style for heading*/
 
