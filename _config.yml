@@ -1,0 +1,7 @@
+url: https://lbryians.github.io
+baseurl: /lbry-org-new/
+
+# Build settings
+
+markdown: kramdown
+
