@@ -15,8 +15,7 @@ defaults:
 markdown    : kramdown
 highlighter : rouge
 
-source: ./
-destination: ./
+destination: build
 
 # Author settings
 author:
