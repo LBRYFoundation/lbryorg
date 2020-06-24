@@ -1,5 +1,5 @@
 
-baseurl: "" # apply repo name if use it under gh-pages branch
+baseurl: "/LBRYians" # apply repo name if use it under gh-pages branch
 
     values:
 defaults:
