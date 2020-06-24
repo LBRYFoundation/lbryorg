@@ -1,12 +1,29 @@
-sass:
-  load_paths:
-    - _sass
-    - node_modules
-exclude: 
-  - node_modules
-  - LICENSE
-  - Makefile
-  - README.md
-  - package.json
-  - package-lock.json
-  - yarn.lock
+title: "Markdown Guide"
+baseurl: "" # apply repo name if use it under gh-pages branch
+
+repo: https://github.com/LBRYians/lbry-org-new
+comments: false
+
+
+defaults:
+  - scope:
+      path:
+    values:
+      layout: layout
+
+# Build settings
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./
+
+# Author settings
+author:
+  name     : "LBRY"
+
+# social settings
+og_locale: "en_US"
+
+
+exclude: [ "README.md", "TODO.md" , "LICENSE" ]
