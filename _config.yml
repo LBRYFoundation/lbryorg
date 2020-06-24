@@ -1,8 +1,6 @@
 title: "LBRY"
 baseurl: "" # apply repo name if use it under gh-pages branch
 
-repo:LBRYians/lbry-org-new
-
 
 # Build settings
 markdown    : kramdown
