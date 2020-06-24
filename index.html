@@ -16,19 +16,23 @@
 
   <!--CUSTOM CSS-->
   <link rel="stylesheet" href="./lib/css/index.css" />
+  <link rel="stylesheet" href="./lib/css/article.css" />
   <!--/CUSTOM CSS-->
 </head>
 
 <body id="home" data-spy="scroll" data-target=".navbar" data-offset="100">
   <!-- navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark lbry-teal fixed-top nav-transparent">
+  <nav class="navbar navbar-expand-lg navbar-dark lbry-dark nav-transparent fixed-top ">
     <div class="container">
-      <span class="navbar-brand order-1 mr-0"><i class="fab fa-github"></i></span>
+      <span class="navbar-brand order-1 mr-0"><a href="https://github.com/LBRYians/lbry-org-new/blob/master/index.html" target="_blank" style="color: #FFFFFF;"><i class="fab fa-github"></i></a></span>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
         aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <a class="navbar-brand" href="./">
+        <img src="./img/logo.png" alt="lbry-foundation-logo">
+      </a>
+      <div class="collapse navbar-collapse navbar-dark" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -38,13 +42,18 @@
               <a class="dropdown-item" href="#home">Home  <span class="sr-only">(current)</span></a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="#about">About</a>
-              <a class="dropdown-item" href="#part2">Part 2</a>
+              <a class="dropdown-item" href="#lbryians">Lbryians</a>
+              <a class="dropdown-item" href="#basics">The Basics</a>
+              <a class="dropdown-item" href="#twitter">LBRY Foundation Tweets</a>
             </div>
           </li>
           <a class="nav-item nav-link" href="./branding">Branding</a>
           <a class="nav-item nav-link" href="./tavern/">Tavern</a>
           <a class="nav-item nav-link" href="./swarm/">Swarm</a>
           <a class="nav-item nav-link" href="./governance/">Governance</a>
+          <a class="nav-item nav-link" href="./chat/">Chat</a>
+          <a class="nav-item nav-link" href="./podcast/">Podcast</a>
+          <a class="nav-item nav-link" href="./roadmap/">Roadmap</a>
         </div>
       </div>
     </div>
@@ -52,20 +61,21 @@
   <!-- /navbar -->
 
   <!-- globalParallax -->
-  <div class="parallax" data-depth-factor="3" id="global-parallax">
-    <img src="./img/lbry_background_art.png" alt="bg-img" class="parallax-img" />
+  <div class="parallax" id="global-parallax">
+    <img src="./img/foundation-background-art.png" data-depth-factor="3" alt="bg-img" class="d-none d-sm-none d-md-none d-lg-block parallax-layer main-parallax-img" />
     <div class="parallax-mask"></div>
     <div class="parallax-bg"></div>
     
     <!-- globalParallaxContent -->
     <div class="parallax-content">
       <!-- jumbotron -->
-      <div class="jumbotron text-white" style="background-color: transparent;">
+      <div class="jumbotron text-white parallax-layer" data-depth-factor="4" style="background-color: transparent;">
         <div class="container text-sm-center pt-5">
-          <h1 class="display-2" Ideas style="font-weight: bold;">Welcome to LBRY </h1>
-          <p class="lead">LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY LBRY</p>
+          <center><h1 class="display-4" Ideas style="font-weight: bold;">Welcome to LBRY </h1></center>
+          <hr class="heading">
+          <center><p class="lead">LBRY is a secure, open, and community-run digital marketplace.</p></center>
           <div class="btn-group mt-4" role="group" aria-label="Callout buttons">
-            <a type="button" class="btn lbry-teal text-white btn-lg" href="https://lbry.com/get">Download LBRY</a>
+            <a type="button" class="btn lbry-dark text-white btn-lg" href="https://lbry.com/get">Download LBRY</a>
             <a class="btn btn-light btn-lg" href="https://chat.lbry.com">Join Discord</a>
           </div>
         </div>
@@ -75,104 +85,116 @@
       <div class="container-fluid pt-4 above-parallax">
         <!-- about -->
         <div id="about" class="row">
-          <div class="col-lg order-lg-1">
-            <h3 class="mb-4">Welcome to LBRY</h3>
+          <div class="col-md-6 col-lg-6 order-lg-1">
+            <h2 class="mb-4">Welcome to LBRY</h2>
             <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
               information online.</p>
-            <p>Want to meet the international JavaScript community and share skills with some of the world's top experts,
-              hackers, and makers? Be the first to know what to expect for the future of JavaScript.</p>
-            <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
-              LBRY network in a way that the community of LBRYians decides themselves.</p>
           </div>
 
-          <div class="col-lg order-lg-2">
-            <h3 class="mb-4">About LBRY Foundations</h3>
-            <!-- <img class="mb-4 img-fluid rounded d-none d-sm-block" src="./img/lbry-logo.png" alt="4"> -->
-            <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
-              information online.</p>
-            <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
-              LBRY network in a way that the community of LBRYians decides themselves.</p>
-          </div>
-          
-          <div class="col-lg order-3">
-            <h3 class="mb-4">Welcome to LBRY</h3>
-            <p>The LBRY community invites everyone to join us in building a more free and open way to share content and
-              information online.</p>
-            <p>Want to meet the international JavaScript community and share skills with some of the world's top experts,
-              hackers, and makers? Be the first to know what to expect for the future of JavaScript.</p>
+          <div class="col-md-6 col-lg-6 order-lg-2">
+            <h2 class="mb-4">About LBRY Foundation</h2>
             <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
               LBRY network in a way that the community of LBRYians decides themselves.</p>
           </div>
         </div>
         <!-- /about -->
+        <hr class="content">
 
-        <hr />
-
-        <!-- part2 -->
-        <h1 id="part2" class="display-4 text-center my-5 text-white">Lbryians</h1>
+        <!-- lbryians -->
+        <h3 id="lbryians" class="display-4 text-center my-5 text-white">Lbryians</h3>
         <div class="row">
-          <div class="col-md-6 col-lg-4">
-            <div class="card mb-3 lbry-teal">
-              <!-- <img class="card-img-top" src="./img/1.png" alt="1"> -->
-              <div class="card-body">
-                <h4 class="card-title">Developer</h4>
-                <p class="card-text">developer developer developer developer developer developer</p>
+          <div class="col-md-12 col-lg-4">
+            <div class="card mb-3 lbry-dark">
+              <div class="card-body text-center">
+                <i class="fas fa-laptop-code"></i>
+                <h4 class="card-title">Are you a Developer?</h4>
               </div>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4">
-            <div class="card mb-3 lbry-teal">
-              <!-- <img class="card-img-top" src="./img/2.png" alt="2"> -->
-              <div class="card-body">
-                <h4 class="card-title">Designer</h4>
-                <p class="card-text">designer designer designer designer designer designer designer designer</p>
+          <div class="col-md-12 col-lg-4">
+            <div class="card mb-3 lbry-dark">
+              <div class="card-body text-center">
+                <i class="fas fa-edit"></i>
+                <h4 class="card-title">Are you a Designer?</h4>
               </div>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4">
-            <div class="card lbry-teal">
-              <!-- <img class="card-img-top" src="./img/3.png" alt="3"> -->
-              <div class="card-body">
-                <h4 class="card-title">Creator</h4>
-                <p class="card-text">creator creator creator creator creator creator creator creator creator</p>
+          <div class="col-md-12 col-lg-4">
+            <div class="card lbry-dark">
+              <div class="card-body text-center">
+                <i class="fas fa-magic"></i>
+                <h4 class="card-title">Are you a Creator?</h4>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-12 col-lg-12 pt-3">
+            <div class="card mb-3 lbry-dark">
+              <div class="card-body text-center">
+                <i class="fas fa-handshake"></i>
+                <h4 class="card-title">Are you someone who wants to have some fun and put your skills to use contributing to creative freedom?</h4>
               </div>
             </div>
           </div>
         </div>
-        <!-- /part2 -->
+        <p>Wonderful. So are we and we’d like to help!</p>
+        <hr class="content">
 
-        <div class="row py-4 text-white">
-          <div class="col-md col-xl-5">
-            <p><strong>About Foundation</strong></p>
-            <p>The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the
-              LBRY network in a way that the community of LBRYians decides themselves.</p>
+        <h3 class="mb-4 text-center" id="basics">The Basics</h3>
+          <div class="col-md-10 col-lg-10 col-xl-10 mx-auto text-center">
+            <p>A lot communication and organization happens via the <a href="./chat/">main chat</a>.<br> 
+            <strong>If you want to possibly participate or don't know what to do next, 
+            the best thing to do is just come here and say "Hi".</strong></p>
+            <p>But the whole network is larger than that -- 
+            it's comprised of subgroups of Hives that together make up <a href="./swarm/">The Swarm</a>.</p>
+            <p>The Foundation provides initiative and project funding, 
+              but only for those that prove themselves. 
+              More in <a href="./tavern/">The Tavern</a>.</p>
           </div>
-          <div class="col-md col-xl-5 ml-auto">
-            <p><strong>Stay up-to-date on LBRY Foundation</strong></p>
+        <!-- /lbryians -->
+
+        <!-- signup form -->
+        <div class="row py-4 text-white">
+          <div class="col-md-5 col-lg-5 col-xl-5 mx-auto text-center">
+            <a href="https://open.lbry.com/@LBRYFoundation:0?r=B5Xh17Wa89hHpZXFqzpaA4ztzPtHCb8F" 
+            class="btn btn-outline-light btn-sm"> Check out Lbry Foundation Official channel </a>
+            
+            <!-- <p><strong>Stay up-to-date on LBRY Foundation</strong></p> 
             <div class="input-group">
               <input type="text" class="form-control" placeholder="Email">
               <span class="input-group-btn">
-                <button class="btn lbry-teal text-white" type="button">Sign up</button>
+                <button class="btn lbry-dark text-white" type="button">Sign up</button>
               </span>
-            </div>
+            </div> -->
           </div>
         </div>
-        <hr /><!-- /signup form -->
+        <hr class="content">
+        <!-- /signup form -->
 
-      </div>
-
+        <!-- twitter -->
+        <h2 class="mb-4 text-center" id="twitter">LBRY Foundation Tweets</h2> <hr class="subhead">
+        <div class="row">
+          <div class="col-md-12 col-lg-12 mx-auto">
+            <div style="text-align: center">
+              <a class="twitter-timeline" data-width="520" data-height="500" data-theme="dark" href="https://twitter.com/LbryFoundation?ref_src=twsrc%5Etfw">Tweets by LbryFoundation</a> 
+              <script 
+              async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+            </script> 
+            </div>
+          </div>
+        </div>        
+        <!-- /twitter -->
+      </div> 
+      
       <!-- footer -->
       <div class="container-fluid above-parallax">
         <div class="row py-3">
           <div class="col-md-7">
             <ul class="nav">
               <li class="nav-item">
-                <a class="nav-link" href="#">Terms and Condition</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Privacy Policy</a>
+                <a class="nav-link" href="https://lbry.com/privacypolicy">Privacy Policy</a>
               </li>
               <li class="nav-item">
                 <div class="btn-group dropup">
@@ -182,17 +204,17 @@
                     <span class="sr-only">Toggle Dropdown</span>
                   </button>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">LBRY.com</a>
-                    <a class="dropdown-item" href="#">LBRY.tech</a>
-                    <a class="dropdown-item" href="#">LBRY.fund</a>
-                    <a class="dropdown-item" href="#">LBRY.tv</a>
+                    <a class="dropdown-item" href="https://lbry.com">LBRY.com</a>
+                      <a class="dropdown-item" href="https://lbry.tech">LBRY.tech</a>
+                      <a class="dropdown-item" href="https://lbry.fund">LBRY.fund</a>
+                      <a class="dropdown-item" href="https://lbry.tv">LBRY.tv</a>
                   </div>
                 </div>
               </li>
             </ul>
           </div>
           <div class="col-md text-md-right">
-            <small>&copy; 2020 LBRY.org &amp; LBRY Foundation</small>
+            <small>&copy; 2020 LBRY.org | LBRY Foundation</small>
           </div>
         </div>
       </div>
