@@ -1,6 +1,11 @@
 title: "LBRY"
 baseurl: "" # apply repo name if use it under gh-pages branch
 
+    values:
+defaults:
+  - scope:
+      type: tools
+      layout: default
 
 # Build settings
 markdown    : kramdown
