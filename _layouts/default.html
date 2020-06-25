@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-    <-- Head -->
-    {% include head.html %}
-    <-- head -->
+
+    {% include _head.html %}
+
         <body data-spy="scroll" data-target=".navbar" data-offset="100">
 
-        {% include header.html %}
+        {% include _header.html %}
         {{ content }}
-        {% include footer.html %}
-        {% include js.html %}
+        {% include _footer.html %}
+        {% include _js.html %}
             
         </body>
 </html>
