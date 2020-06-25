@@ -1,5 +1,6 @@
 ---
 title : The Swarm
+subhead : LBRY SWARM!🍯
 layout : default
 permalink : /swarm/
 ---
