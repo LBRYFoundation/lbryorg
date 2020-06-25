@@ -1,5 +1,5 @@
 ---
-title : Swarm
+title : The Swarm
 layout : default
 permalink : /swarm/
 ---
