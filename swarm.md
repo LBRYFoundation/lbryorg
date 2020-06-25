@@ -1,7 +1,7 @@
 ---
 title : The Swarm
 subhead : LBRY SWARM!🍯
-bg-image : img\foundation-swarm-background-art.png
+bg-image : "../img/foundation-swarm-background-art.png"
 layout : default
 permalink : /swarm/
 ---
