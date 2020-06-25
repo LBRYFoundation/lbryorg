@@ -9,8 +9,7 @@ permalink : /chat/
 The main community chat is hosted via Discord and located at chat.lbry.org.
 Some Hives maintain separate chat rooms that can be discovered by checking the [list of Hives.](https://lbryians.github.io/lbry-org-new/swarm/#hives)
 
-# The Main Chat <br>
-<hr class=subhead>
+# The Main Chat
 The main community discord is a massive chat server used by over 68000 community members.
 There you can...
 
