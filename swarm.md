@@ -2,7 +2,6 @@
 title : The Swarm
 subhead : LBRY SWARM!🍯
 bg-image : "../img/foundation-swarm-background-art.png"
-id : "https://github.com/LBRYians/lbry-org-new/tree/master/governance"
 layout : default
 permalink : /swarm/
 ---
