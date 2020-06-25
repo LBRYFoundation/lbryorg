@@ -1,6 +1,6 @@
 ---
 title : Swarm
-layout : default
+layout : swarm
 permalink : /swarm/
 ---
 
