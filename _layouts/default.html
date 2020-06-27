@@ -1,63 +1,14 @@
 <!DOCTYPE html>
 <html>
-
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-        <title>LBRY Foundation</title>
+    <!-- HeadPart -->
+    {% include head.html %}
+    <!-- /HeadPart -->
     
-        <!--TitleBar Icon-->
-        <link rel="shortcut icon" href="../img/small-logo.png" type="image/png">
-    
-        <!-- CSS DEPENDENCIES -->
-        <link rel="stylesheet" href="../lib/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="../lib/fontawesome/css/all.min.css">
-        <!-- /CSS DEPENDENCIES -->
-        
-        <!-- CUSTOM CSS -->
-        <link rel="stylesheet" href="../lib/css/article.css">
-        <link rel="stylesheet" href="../lib/css/index.css">
-        <!-- /CUSTOM CSS -->
-    </head>
         <body data-spy="scroll" data-target=".navbar" data-offset="100">
 
-        <!-- navbar -->
-          <nav class="navbar navbar-expand-lg navbar-dark lbry-dark nav-transparent fixed-top">
-            <div class="container">
-              <!--Github Logo on Right-->
-              <span class="navbar-brand order-1 mr-0">
-                <a href="https://github.com/LBRYians/lbry-org-new/" target="_blank" style="color: #FFFFFF;">
-                  <i class="fab fa-github"></i>
-                </a>
-              </span>
-              <!--Github Logo on Right-->
-              <!--Dropdown toggle for smaller screens-->
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <!--Dropdown toggle for smaller screens-->
-              <!--Foundaton Logo-->
-              <a class="navbar-brand" href="../">
-                <img src="../img/logo.png"  alt="lbry-foundation-logo">
-              </a>
-              <!--Foundaton Logo-->
-              <!--Navbar Menu Links--> 
-              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                  <a class="nav-item nav-link" href="../">Home</a>
-                  <a class="nav-item nav-link" href="../branding/">Branding</a>
-                  <a class="nav-item nav-link" href="../tavern/">Tavern</a>
-                  <a class="nav-item nav-link" href="../swarm/">Swarm</a>
-                  <a class="nav-item nav-link" href="../governance/">Governance</a>
-                  <a class="nav-item nav-link" href="../chat/">Chat</a>
-                  <a class="nav-item nav-link" href="../roadmap/">Roadmap</a>
-                  <a class="nav-item nav-link" href="../podcast/">Podcast</a>
-                </div>
-        <!--Navbar Menu Links-->
-      </div>
-    </div>
-  </nav>
-  <!-- /navbar -->
+    <!-- NavPart -->
+    {% include nav.html %}
+    <!-- /NavPart -->
     
   <!-- globalParallax -->
   <div class="parallax" id="global-parallax">
@@ -81,40 +32,11 @@
         {{ content }}
       </div>
     </div>
-       <!-- footer -->
-       <div class="container-fluid above-parallax">
-        <div class="row py-3">
-          <div class="col-md-7">
-            <ul class="nav">
-              <li class="nav-item">
-                <a class="nav-link" href="https://lbry.com/privacypolicy">Privacy Policy</a>
-              </li>
-              <li class="nav-item">
-                <div class="btn-group dropup">
-                  <button type="button" class="btn btn-outline-secondary text-white">Other Sites</button>
-                  <button type="button" class="btn btn-outline-secondary dropdown-toggle dropdown-toggle-split" 
-                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <span class="sr-only">Toggle Dropdown</span>
-                  </button>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="https://lbry.com">LBRY.com</a>
-                    <a class="dropdown-item" href="https://lbry.tech">LBRY.tech</a>
-                    <a class="dropdown-item" href="https://lbry.fund">LBRY.fund</a>
-                    <a class="dropdown-item" href="https://lbry.tv">LBRY.tv</a>
-                  </div>
-                </div>
-              </li>
-              <li class="nav-item" style="padding-left: 1rem;">
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div class="col-md text-md-right">
-            <small>&copy; 2020 LBRY.org | LBRY Foundation</small>
-          </div>
-        </div>
-      </div>
-      <!-- /footer -->
+       
+      <!-- FooterPart -->
+      {% include footer.html %}
+      <!-- /FooterPart -->
+
       
     </div>
     <!-- /globalParallaxContent -->
