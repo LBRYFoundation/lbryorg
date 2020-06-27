@@ -112,7 +112,7 @@ nav {
 }
 .navbar-center {
   position: absolute;
-  left: 43%;
+  left: 50%;
   transform: translatex(-50%);
 }
 /* /Navbar */
