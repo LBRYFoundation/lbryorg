@@ -110,6 +110,11 @@ nav {
   background-color: rgb(11, 90, 121);
   border-radius: 0.2rem;
 }
+.navbar-center {
+  position: absolute;
+  left: 43%;
+  transform: translatex(-50%);
+}
 /* /Navbar */
 
 /* Special Branded Color Classes*/
