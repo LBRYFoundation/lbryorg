@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -21,42 +25,9 @@
 </head>
 
 <body id="home" data-spy="scroll" data-target=".navbar" data-offset="100">
-   <!-- navbar -->
-   <nav class="navbar navbar-expand-lg navbar-dark lbry-dark nav-transparent fixed-top">
-    <div class="container">
-      <!--Github Logo on Right-->
-      <span class="navbar-brand order-1 mr-0">
-        <a href="https://github.com/LBRYians/lbry-org-new/" target="_blank" style="color: #FFFFFF;">
-          <i class="fab fa-github"></i>
-        </a>
-      </span>
-      <!--Github Logo on Right-->
-      <!--Dropdown toggle for smaller screens-->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <!--Dropdown toggle for smaller screens-->
-      <!--Foundaton Logo-->
-      <a class="navbar-brand" href="../">
-        <img src="./img/logo.png"  alt="lbry-foundation-logo">
-      </a>
-      <!--Foundaton Logo-->
-      <!--Navbar Menu Links--> 
-      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-          <a class="nav-item nav-link" href="./">Home</a>
-          <a class="nav-item nav-link" href="./branding/">Branding</a>
-          <a class="nav-item nav-link" href="./tavern/">Tavern</a>
-          <a class="nav-item nav-link" href="./swarm/">Swarm</a>
-          <a class="nav-item nav-link" href="./governance/">Governance</a>
-          <a class="nav-item nav-link" href="./chat/">Chat</a>
-          <a class="nav-item nav-link" href="./roadmap/">Roadmap</a>
-          <a class="nav-item nav-link" href="./podcast/">Podcast</a>
-        </div>
-        <!--Navbar Menu Links-->
-      </div>
-    </div>
-  </nav>
+   
+  <!-- navbar -->
+   {% include nav.html %}
   <!-- /navbar -->
 
   <!-- globalParallax -->
