@@ -54,6 +54,7 @@ html {
   color: white;
   padding: 2rem;
   z-index: 100;
+  position: relative;
 }
 
 .parallax {
