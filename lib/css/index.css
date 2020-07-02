@@ -54,6 +54,7 @@ html {
   color: white;
   padding: 2rem;
   z-index: 100;
+  position: relative;
 }
 
 .parallax {
@@ -109,6 +110,11 @@ nav {
 .nav-link.active {
   background-color: rgb(11, 90, 121);
   border-radius: 0.2rem;
+}
+.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
 }
 /* /Navbar */
 

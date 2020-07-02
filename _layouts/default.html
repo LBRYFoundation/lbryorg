@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <!-- HeadPart -->
+    {% include head.html %}
+    <!-- /HeadPart -->
+    
+        <body data-spy="scroll" data-target=".navbar" data-offset="100">
+
+    <!-- NavPart -->
+    {% include nav.html %}
+    <!-- /NavPart -->
+    
+  <!-- globalParallax -->
+  <div class="parallax" id="global-parallax">
+    <img src="{{ page.bg-image }}" data-depth-factor="3" class="d-none d-sm-none d-md-none d-lg-block parallax-layer main-parallax-img" />
+    <div class="parallax-mask"></div>
+    <div class="parallax-bg"></div>
+
+    <!-- globalParallaxContent -->
+    <div class="parallax-content">
+      <!-- jumbotron -->
+      <div class="jumbotron text-white parallax-layer" data-depth-factor="4" style="background-color: transparent;" id="#">
+        <div class="container text-sm-center pt-5">
+          <center><h1 class="display-4" Ideas style="font-weight: bold;">{{ page.title }}</h1></center>
+          <hr class="heading">
+          <center><p class="lead">{{ page.subhead }}</p></center>
+        </div>
+      </div>
+      <!-- /jumbotron -->
+
+      <div class="container-fluid above-parallax">
+        {{ content }}
+      </div>
+    </div>
+       
+      <!-- FooterPart -->
+      {% include footer.html %}
+      <!-- /FooterPart -->
+
+      
+    </div>
+    <!-- /globalParallaxContent -->
+  </div>
+  <!-- /globalParallax -->
+  
+  <!-- JS DEPENDENCIES -->
+  <script src="../lib/jquery/jquery-3.5.1.min.js" defer></script>
+  <script src="../lib/bootstrap/js/bootstrap.bundle.min.js" defer></script>
+  <!-- /JS DEPENDENCIES -->
+
+  <!--CUSTOM JS-->
+  <script src="../lib/js/index.js" defer></script>
+  <!--/CUSTOM JS-->
+            
+        </body>
+</html>

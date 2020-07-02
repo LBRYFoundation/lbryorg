@@ -1,0 +1,9 @@
+   values:
+defaults:
+  - scope:
+      type: default
+      layout: default
+
+
+# Build Settings
+markdown: kramdown
