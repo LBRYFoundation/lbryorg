@@ -1,6 +1,6 @@
 ---
 title : Chat
-subhead : Join the LBRY Chat.
+subhead : Join the LBRY Chat💬.
 bg-image : "../img/foundation-chat-background-art.png"
 layout : default
 permalink : /chat/
