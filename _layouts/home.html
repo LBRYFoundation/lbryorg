@@ -12,7 +12,7 @@
       
       <!-- globalParallax -->
   <div class="parallax" id="global-parallax">
-    <img src="../img/foundation-background-art.png" data-depth-factor="3" alt="bg-img" class="d-none d-sm-none d-md-none d-lg-block parallax-layer main-parallax-img" />
+    <img src="{{ page.bg-image }}" data-depth-factor="3" alt="bg-img" class="d-none d-sm-none d-md-none d-lg-block parallax-layer main-parallax-img" />
     <div class="parallax-mask"></div>
     <div class="parallax-bg"></div>
     
@@ -21,9 +21,9 @@
       <!-- jumbotron -->
       <div class="jumbotron text-white parallax-layer" data-depth-factor="4" style="background-color: transparent;">
         <div class="container text-sm-center pt-5">
-          <center><h1 class="display-4" Ideas style="font-weight: bold;">Welcome to LBRY </h1></center>
+          <center><h1 class="display-4" Ideas style="font-weight: bold;">{{ page.title }}</h1></center>
           <hr class="heading">
-          <center><p class="lead">LBRY is a secure, open, and community-run digital marketplace.</p></center>
+          <center><p class="lead">{{ page.subhead }}</p></center>
           <div class="btn-group mt-4" role="group" aria-label="Callout buttons">
             <a type="button" class="btn lbry-dark text-white btn-lg" href="https://lbry.com/get">Download LBRY</a>
             <a class="btn btn-light btn-lg" href="https://chat.lbry.com">Join Discord</a>
