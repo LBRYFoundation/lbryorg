@@ -5,56 +5,44 @@ title: Home
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LBRY Foundation</title>
-
-  <!--TitleBar Icon-->
-  <link rel="icon" href="./img/small-logo.png" type="image/png" />
-
-  <!-- CSS DEPENDENCIES -->
-  <link rel="stylesheet" href="./lib/fontawesome/css/all.min.css" />
-  <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css" />
-  <!-- /CSS DEPENDENCIES -->
-
-  <!--CUSTOM CSS-->
-  <link rel="stylesheet" href="./lib/css/index.css" />
-  <link rel="stylesheet" href="./lib/css/article.css" />
-  <!--/CUSTOM CSS-->
-</head>
+<!-- Head --> 
+  {% include head.html %}
+<!-- /Head -->
 
 <body id="home" data-spy="scroll" data-target=".navbar" data-offset="100">
-   
-  <!-- navbar -->
-   <nav class="navbar navbar-expand-lg navbar-dark lbry-dark nav-transparent fixed-top">
+
+<!-- NavBar -->
+  <nav class="navbar navbar-expand-lg navbar-dark lbry-dark nav-transparent fixed-top">
     <div class="container">
-      <!--Github Logo on Right-->
+      
+      <!-- Github Logo on Right -->
       <span class="navbar-brand order-1 mr-0">
         <a href="https://github.com/LBRYians/lbry-org-new/" target="_blank" style="color: #FFFFFF;">
           <i class="fab fa-github"></i>
         </a>
       </span>
-      <!--Github Logo on Right-->
-      <!--Dropdown toggle for smaller screens-->
+      <!-- /Github Logo on Right -->
+      
+      <!-- Dropdown toggle for smaller screens -->
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <!--Dropdown toggle for smaller screens-->
-      <!--Foundaton Logo-->
+      <!-- /Dropdown toggle for smaller screens -->
+      
+      <!-- Foundaton Logo -->
       <a class="navbar-brand" href="../">
         <img src="./img/logo.png"  alt="lbry-foundation-logo">
       </a>
-      <!--Foundaton Logo-->
+      <!-- /Foundaton Logo -->
       
-      <!--Navbar Menu Links--> 
+      <!-- NavLinks --> 
               {% include navlinks.html %}
-      <!--Navbar Menu Links-->
+      <!-- /NavLinks -->
       
       </div>
     </div>
   </nav>
-  <!-- /navbar -->
+  <!-- /NavBar -->
 
   <!-- globalParallax -->
   <div class="parallax" id="global-parallax">
@@ -64,6 +52,7 @@ title: Home
     
     <!-- globalParallaxContent -->
     <div class="parallax-content">
+      
       <!-- jumbotron -->
       <div class="jumbotron text-white parallax-layer" data-depth-factor="4" style="background-color: transparent;">
         <div class="container text-sm-center pt-5">
@@ -79,6 +68,7 @@ title: Home
       <!-- /jumbotron -->
 
       <div class="container-fluid pt-4 above-parallax">
+        
         <!-- about -->
         <div id="about" class="row">
           <div class="col-md-6 col-lg-6 order-lg-1">
@@ -94,6 +84,7 @@ title: Home
           </div>
         </div>
         <!-- /about -->
+        
         <hr class="content">
 
         <!-- lbryians -->
@@ -151,23 +142,15 @@ title: Home
           </div>
         <!-- /lbryians -->
 
-        <!-- signup form -->
+        <!-- Check out Lbry Foundation Official channel -->
         <div class="row py-4 text-white">
           <div class="col-md-5 col-lg-5 col-xl-5 mx-auto text-center">
             <a href="https://open.lbry.com/@LBRYFoundation:0?r=B5Xh17Wa89hHpZXFqzpaA4ztzPtHCb8F" 
             class="btn btn-outline-light btn-sm"> Check out Lbry Foundation Official channel </a>
-            
-            <!-- <p><strong>Stay up-to-date on LBRY Foundation</strong></p> 
-            <div class="input-group">
-              <input type="text" class="form-control" placeholder="Email">
-              <span class="input-group-btn">
-                <button class="btn lbry-dark text-white" type="button">Sign up</button>
-              </span>
-            </div> -->
           </div>
         </div>
         <hr class="content">
-        <!-- /signup form -->
+        <!-- /Check out Lbry Foundation Official channel -->
 
         <!-- twitter -->
         <h2 class="mb-4 text-center" id="twitter">LBRY Foundation Tweets</h2> <hr class="subhead">
@@ -226,9 +209,9 @@ title: Home
   <script src="./lib/bootstrap/js/bootstrap.bundle.min.js" defer></script>
   <!-- /JS DEPENDENCIES -->
 
-  <!--CUSTOM JS-->
+  <!-- CUSTOM JS -->
   <script src="./lib/js/index.js" defer></script>
-  <!--/CUSTOM JS-->
+  <!-- /CUSTOM JS -->
 </body>
 
 </html>
