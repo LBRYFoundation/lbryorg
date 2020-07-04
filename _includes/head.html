@@ -1,10 +1,39 @@
+{% if page.title == 'Home' %}
+    
+    <!--HeadPart for HOMEPAGE--> 
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <title>LBRY Foundation</title>
+
+        <!-- TitleBar Icon -->
+        <link rel="icon" href="./img/small-logo.png" type="image/png" />
+        <!-- /TitleBar Icon -->
+
+        <!-- CSS DEPENDENCIES -->
+        <link rel="stylesheet" href="./lib/fontawesome/css/all.min.css" />
+        <link rel="stylesheet" href="./lib/bootstrap/css/bootstrap.min.css" />
+        <!-- /CSS DEPENDENCIES -->
+
+        <!-- CUSTOM CSS -->
+        <link rel="stylesheet" href="./lib/css/index.css" />
+        <link rel="stylesheet" href="./lib/css/article.css" />
+        <!-- /CUSTOM CSS -->
+    </head>    
+    <!--/HeadPart for HOMEPAGE-->
+
+{% elsif page.layout == 'default' %}
+
+    <!--HeadPart for DefaultLayoutsPages-->
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
         <title>LBRY Foundation</title>
     
-        <!--TitleBar Icon-->
+        <!-- TitleBar Icon -->
         <link rel="shortcut icon" href="../img/small-logo.png" type="image/png">
+        <!-- /TitleBar Icon -->
     
         <!-- CSS DEPENDENCIES -->
         <link rel="stylesheet" href="../lib/bootstrap/css/bootstrap.min.css">
@@ -16,3 +45,6 @@
         <link rel="stylesheet" href="../lib/css/index.css">
         <!-- /CUSTOM CSS -->
     </head>
+    <!-- /HeadPart for DefaultLayoutsPages -->
+
+{% endif %}
