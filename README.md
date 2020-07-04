@@ -35,7 +35,7 @@ Visit [LBRY Foundation](https://lbryians.github.io/lbry-org-new/) to see this re
 ## Contributing
 Contributions to this project are welcome, encouraged, and compensated.
 
-For more details, see [CONTRIBUTING](https://lbry.tech/contribute).
+For more details, see [CONTRIBUTING](CONTRIBUTING.md).
 
 ## License
 This project is MIT licensed. For the full license, see [LICENSE](LICENSE).
