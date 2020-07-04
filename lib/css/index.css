@@ -54,7 +54,7 @@ img {
 
 .parallax .above-parallax {
   box-shadow: rgba(0, 0, 0, 0.6) 0 0 1rem;
-  background: rgba(5, 20, 40, 0.93);
+  background: rgba(5, 20, 40, 0.85);
   color: white;
   padding: 2rem;
   z-index: 100;
