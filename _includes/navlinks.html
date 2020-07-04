@@ -1,0 +1,30 @@
+{% if page.title == 'Home' %}
+    <!--Navbar Menu Links--> 
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link" href="./">Home</a>
+          <a class="nav-item nav-link" href="./branding/">Branding</a>
+          <a class="nav-item nav-link" href="./tavern/">Tavern</a>
+          <a class="nav-item nav-link" href="./swarm/">Swarm</a>
+          <a class="nav-item nav-link" href="./governance/">Governance</a>
+          <a class="nav-item nav-link" href="./chat/">Chat</a>
+          <a class="nav-item nav-link" href="./roadmap/">Roadmap</a>
+          <a class="nav-item nav-link" href="./podcast/">Podcast</a>
+        </div>
+        <!--Navbar Menu Links-->
+        
+  {% elsif page.layout == 'default' %}
+    <!--Navbar Menu Links--> 
+              <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                  <a class="nav-item nav-link" href="../">Home</a>
+                  <a class="nav-item nav-link" href="../branding/">Branding</a>
+                  <a class="nav-item nav-link" href="../tavern/">Tavern</a>
+                  <a class="nav-item nav-link" href="../swarm/">Swarm</a>
+                  <a class="nav-item nav-link" href="../governance/">Governance</a>
+                  <a class="nav-item nav-link" href="../chat/">Chat</a>
+                  <a class="nav-item nav-link" href="../roadmap/">Roadmap</a>
+                  <a class="nav-item nav-link" href="../podcast/">Podcast</a>
+                </div>
+ <!--Navbar Menu Links-->
+{% endif %}
