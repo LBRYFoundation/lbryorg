@@ -17,7 +17,7 @@ under devlopment
 
 ## Prerequisites
 - Git 
-- Text editor or any code editor (E.g - [VsCode](https://code.visualstudio.com/download) 
+- Text editor or any code editor (E.g - [VsCode](https://code.visualstudio.com/download))
 - Web browser
 
 ## Installation
