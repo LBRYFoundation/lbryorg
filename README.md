@@ -1,7 +1,7 @@
-# lbry-org-new
-New Design for lbry.org
+# LBRY Foundation Website
+https://lbry.org
 
-under devlopment
+(under devlopment)
 
 <h1 align="center">lbry.org</h1>
 
