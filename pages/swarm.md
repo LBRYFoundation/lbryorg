@@ -18,12 +18,6 @@ Anyone can make a hive, everyone can join as many hives as they’d like, and th
 
 Some examples of hives:
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
-# New Features!
-
 - Music
 - Country music
 - EDM
@@ -39,6 +33,8 @@ Some examples of hives:
 You could think of hives as subreddits on Reddit, or channels on an IRC server, but different.
 
 # Why should I join or make a hive?
+
+## [`Click Here to see all Foundations Hive`](../#viewhives) 
 
 Joining or making a hive is a great way to jump into the LBRY network.
 
@@ -73,5 +69,3 @@ Make a hive ruled by 1.
 The LBRY network is your stage, your imagination is your player.
 Have fun. Experiment. Succeed. Fail. Try again. Fail again. Try again… again. Or don’t.
 The choices are yours to make.
-
-                                                     |
