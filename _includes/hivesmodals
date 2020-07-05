@@ -1,0 +1,663 @@
+<!-- Hives Modals -->
+
+  <!-- Developers -->
+  <div class="modal fade" id="developersModal" tabindex="-1" role="dialog" aria-labelledby="developersModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="developersModal">LBRY Community (LBRYC) </h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Developer role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            The LBRY Foundation's developer hive. 
+            Chat with other software engineers and developers. 
+            Talk about LBRY or other development projects. 
+            Learn and explore the world of code!  
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Developers -->
+
+  <!-- Contributors -->
+  <div class="modal fade" id="contributorsModal" tabindex="-1" role="dialog" aria-labelledby="contributorsModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="contributorsModal">Contributors</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Contributor role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            The LBRY Foundation's contributors hive. 
+            Chat with other contributors. 
+            Talk about building LBRY design, marketing, outreach, organization, translation, 
+            or any form of contribution other than software engineering.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Contributors -->
+
+  <!-- Creators -->
+  <div class="modal fade" id="creatorsModal" tabindex="-1" role="dialog" aria-labelledby="creatorsModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="creatorsModal">Creators</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Creator role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            The LBRY Foundation's creators hive. 
+            Chat with other creators on the LBRY platform or where ever! Talk about gear, technique, struggles, successes. 
+            Share ideas and content, and get to know one another! 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Creators -->
+
+  <!-- Translators -->
+  <div class="modal fade" id="translatorsModal" tabindex="-1" role="dialog" aria-labelledby="translatorsModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="translatorsModal">Translators</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Translator role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            The LBRY Foundation's translation hive. 
+            Chat with other translators. 
+            Help translate LBRY and LBRY documentation to languages from around the world!
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Translators -->
+
+  <!-- LBRY.Science -->
+  <div class="modal fade" id="LBRY_ScienceModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_ScienceModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_ScienceModal">LBRY.Science</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Science role</p> 
+
+          <h4>Website</h4>
+          <p><a href="http://lbry.science/">http://lbry.science/</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            LBRY.Science focuses on the curation of science news, 
+            the creation and curation of science content, 
+            the spread of science literacy, communication, 
+            and education, and the advancement of DeSci: A Decentralized System of Science.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY.Science -->
+
+  <!-- LBRY.Español -->
+  <div class="modal fade" id="LBRY_EspanolModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_EspanolModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_EspanolModal">LBRY.Español</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Espanol role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            Canal en español del protocolo LBRY para toda la comunidad. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY.Español -->
+
+  <!-- LBRY.records -->
+  <div class="modal fade" id="LBRY_recordsModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_recordsModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_recordsModal">LBRY.records</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Musician role</p> 
+
+          <h4>Website</h4>
+          <p><a href="https://bitrophone.com/">https://bitrophone.com/</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            LBRY.Records plans to be a music distribution company & online label in future, 
+            that distributes your music to all platforms such as Spotify, iTunes, Deezer, YouTube 
+            and makes musicians earn more money by utilising cryptocurrencies on an official LBRY.Records LBRY channel. 
+            It is also a musician community. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY.records -->
+
+  <!-- Open Source LBRY -->
+  <div class="modal fade" id="Open_Source_LBRYModal" tabindex="-1" role="dialog" aria-labelledby="Open_Source_LBRYModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="Open_Source_LBRYModal">Open Source LBRY</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !OpenSource role </p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            Open Source LBRY's focus is to bring open sourced content to LBRY. 
+            We have already uploaded over 50k public domain books and have created the MassUploader program
+            so that anybody that has many open source/public domain files have an easy method to publish them all to LBRY. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Open Source LBRY -->
+
+  <!-- Watch on LBRY Plugin  -->
+  <div class="modal fade" id="Watch_on_LBRY_PluginModal" tabindex="-1" role="dialog" aria-labelledby="Watch_on_LBRY_PluginModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="Watch_on_LBRY_PluginModal">Watch on LBRY Plugin</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !WatchonLBRY role</p> 
+
+          <h4>Website</h4>
+          <p><a href="https://github.com/kodxana/Watch-on-LBRY">https://github.com/kodxana/Watch-on-LBRY</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            A plugin for web browsers that automatically checks whether a YouTube video or channel is on LBRY. 
+            If it is, it redirects you to LBRY to watch it there.  
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Watch on LBRY Plugin -->
+
+  <!-- Wallet Servers -->
+  <div class="modal fade" id="Wallet_ServersModal" tabindex="-1" role="dialog" aria-labelledby="Wallet_ServersModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="Wallet_ServersModal">Wallet Servers</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !WalletServer role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            A wallet server is a computer that processes information from the blockchain and 
+            arranges it into a more convenient form for apps to use. 
+            Your LBRY app talks to wallet servers when it wants to find out information about LBRY content,
+            make transactions, and many other things. <br>
+
+            A community member may wish to run his or her own wallet server in order to reduce reliance on LBRY Inc 
+            (thus making the network more decentralized), 
+            to customize what content is available to users 
+            (e.g., certain content might be illegal in one country but not another), 
+            in order to run a different trending algorithm, or for some other reason not listed here. <br>
+
+            This hive talks about and builds these things. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Wallet Servers -->
+
+  <!-- Reddit -->
+  <div class="modal fade" id="RedditModal" tabindex="-1" role="dialog" aria-labelledby="RedditModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="RedditModal">Reddit</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !Reddit role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            The place for people who use Reddit and LBRY. 
+            Join if you want to spread LBRY among Redditors, 
+            talk about the Reddit tipbot or other integrations, 
+            or just lament the slow death of a once totally sweet site.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Reddit -->
+
+  <!-- LazyBit -->
+  <div class="modal fade" id="LazyBitModal" tabindex="-1" role="dialog" aria-labelledby="LazyBitModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LazyBitModal">LazyBit</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !LazyBit role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            We work towards raising the level of knowledge about LBRY, 
+            cryptocurrency and distributed technologies in geographic area of ex-Yugoslavia/Balkans/Adriatic region. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LazyBit -->
+
+  <!-- LBRY India -->
+  <div class="modal fade" id="LBRY_IndiaModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_IndiaModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_IndiaModal">LBRY India</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !India role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            LBRY India is a community for LBRYians accros India and Africa. 
+            We are the full supporters of LBRY, secure, open, and community-run digital marketplace
+            to enjoy the latest content from your favorite creators as a user, not a product. <br>
+            The LBRY India community is made up of people from various educational and cultural backgrounds. 
+            You can get to learn new things and get to meet new people. 
+            Probably make some new friends. We usually organise LBRY, blockchain, and cryptocurrency meetups. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY India -->
+
+  <!-- Makerspace Hive -->
+  <div class="modal fade" id="Makerspace_HiveModal" tabindex="-1" role="dialog" aria-labelledby="Makerspace_HiveModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="Makerspace_HiveModal">Makerspace Hive</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p>LBRY Discord !MakerspaceHive role</p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            Makerspacehive is promoting LBRY as a content distribution platform
+            for makers and DIY creators with special focus on Makerspaces. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Makerspace Hive -->
+
+  <!-- LBRY Social -->
+  <div class="modal fade" id="LBRY_SocialModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_SocialModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_SocialModal">LBRY Social</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p><a href="https://join.lbry.social/">https://join.lbry.social/</a></p> 
+
+          <h4>Website</h4>
+          <p><a href="https://lbry.social/">https://lbry.social/</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            LBRY Social is an online LBRY community building, marketing and growth engine with a twist. 
+            We are an ecosystem of LBRYnauts looking to learn, discover and 
+            build networks to power LBRY community blockchain projects of all shapes and sizes. 
+            Power to the people! 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY Social -->
+
+  <!-- LBRY Turkey -->
+  <div class="modal fade" id="LBRY_TurkeyModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_TurkeyModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_TurkeyModal">LBRY Turkey</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p><a href="https://discord.gg/Np22tJw">https://discord.gg/Np22tJw</a></p> 
+
+          <h4>Website</h4>
+          <p><a href="http://www.lbryturkey.com/">http://www.lbryturkey.com/</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            LBRY.Turkey / LBRY Türkiye, Türkiye'de LBRY kullanıcılarının oluşturduğu bir topluluktur. 
+            Bu topluluğa katılıp diğer Türk LBRY kullanıcıları ile tanışabilir, 
+            ara ara düzenlenen LBC ve Swag çekilişlerine katılabilir, 
+            içeriklerin tadını beraber çıkarabilirsin. 
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY Turkey -->
+
+  <!-- LBRY Community (LBRYC)  -->
+  <div class="modal fade" id="LBRY_CommunityModal" tabindex="-1" role="dialog" aria-labelledby="LBRY_CommunityModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRY_CommunityModal">LBRY Community (LBRYC) </h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p><a href="https://invite.lbry.community">https://invite.lbry.community</a></p> 
+
+          <h4>Website</h4>
+          <p><a href="https://lbry.community">https://lbry.community</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            The LBRY.Community hive is dedicated to bringing attention to the LBRY protocol and 
+            applications built on the LBRY protocol alongside showing our support and love for open source projects. <br> 
+            Our goal is to promote and aid in the acknowledgement of projects built on the LBRY protocol
+            and similar open source projects.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRY Community (LBRYC)  -->
+
+  <!-- Beat Saber -->
+  <div class="modal fade" id="Beat_SaberModal" tabindex="-1" role="dialog" aria-labelledby="Beat_SaberModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="Beat_SaberModal">Beat Saber</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p><a href="https://discord.gg/qQDgacC">https://discord.gg/qQDgacC</a></p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            Beat Saber is a rhythmic video game where you hit notes to the beat in a VR experience. 
+            LBRY Beat Saber is all about hanging out! Share everything you enjoy about Beat Saber, 
+            chat about your favorite map, or anything related! <br>
+            The main mission we'd like to do is: 
+            to share to everyone in the beat saber community that LBRY can really help you with the content you make, 
+            even if you play a song that may be copywritten!
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /Beat Saber -->
+
+  <!-- LBRYans United -->
+  <div class="modal fade" id="LBRYans_UnitedModal" tabindex="-1" role="dialog" aria-labelledby="LBRYans_UnitedModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRYans_UnitedModal">LBRYans United</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p><a href="https://mewe.com/join/lbryansunited">https://mewe.com/join/lbryansunited</a></p> 
+
+          <!-- <h4>Website</h4>
+          <p></p>   -->
+
+          <h4>Description</h4>
+          <p>
+            This hive represents the "LBRYans United" MeWe Group, 
+            which serves to help inform/educate/connect with folks who may not have ever heard of LBRY. <br>
+            A place for new/old LBRY users ("LBRYans" when spelled properly) to share/view/discuss their work. 
+            We also focus heavily on the more broad crypto world as well as alternative FOSS based platforms & programs.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRYans United -->
+
+  <!-- LBRYian.com -->
+  <div class="modal fade" id="LBRYian_comModal" tabindex="-1" role="dialog" aria-labelledby="LBRYian_comModal" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content lbry-dark text-white">
+        <div class="modal-header">
+          <h3 class="modal-title" id="LBRYian_comModal">LBRYian.com</h3>
+          <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4>Chat Room or Forum</h4>
+          <p><a href="https://discord.gg/cqNDrm9">https://discord.gg/cqNDrm9</a></p>
+
+          <h4>Website</h4>
+          <p><a href="https://lbryian.com/">https://lbryian.com/</a></p>  
+
+          <h4>Description</h4>
+          <p>
+            LBRYian.com is building Social Media Network among students to promote LBRY technology
+            and spreading awareness about how LBRY can help to protect our privacy, and freedom
+            of our content by doing meetups and making meaningful memes that describe LBRY in fun way. <br>
+            Our Main Focus is to trend #lbryian in social media by our memes and meetups.
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn lbry-dark-green" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- /LBRYian.com -->
+  
+  <!-- Hives Modals -->
