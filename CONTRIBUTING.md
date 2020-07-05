@@ -116,14 +116,15 @@ Adding new pages are easy as breathing [Well in most cases :stuck_out_tongue:] .
   Scroll down to navbar section which starts and ends with `<!-- NavLinksPart for HOMEPAGE -->` comment <br>
   
   add a line `<a class="nav-item nav-link" href="./asinpermalink/">PageName</a> ` <br>
-
-  Save :beer:
+  
 
 - <u>**Step 3:**</u> Add in `./_includes/navlinks.html` 
 
   Scroll down to navbar section which starts and ends with `<!-- NavLinksPart for DefaultLayoutsPages -->` comment <br>
   
   add a line `<a class="nav-item nav-link" href="../asinpermalink/">PageName</a> ` <br>
+  
+  Save :beer:
   
   ![NavLinks](https://i.imgur.com/fcqeZVy.png)
   
