@@ -34,7 +34,7 @@ You could think of hives as subreddits on Reddit, or channels on an IRC server, 
 
 # Why should I join or make a hive?
 
-## Click on a [`Foundation Hives`]((../#viewhives) to see all the HIVES 
+## Click on a [`Foundation Hives`](../#viewhives) to see all the HIVES 
 
 Joining or making a hive is a great way to jump into the LBRY network.
 
