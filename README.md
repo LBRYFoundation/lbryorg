@@ -32,7 +32,7 @@ For more details, see [CONTRIBUTING](CONTRIBUTING.md).
     
   
   #### Icons
-   - Icon made by [pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/)
+  - Icon made by [pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com/)
     - [Tavern Icon](https://www.flaticon.com/free-icon/beer_2984328)
     - [Swarm Icon](https://www.flaticon.com/free-icon/swarm_1946532)
     - [Podcast Icon](https://www.flaticon.com/free-icon/podcast_3048452)
