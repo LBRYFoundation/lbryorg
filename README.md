@@ -41,6 +41,8 @@ For more details, see [CONTRIBUTING](CONTRIBUTING.md).
 
   - Icon made by [srip](https://www.flaticon.com/authors/srip) from [www.flaticon.com](https://www.flaticon.com/)
     - [Branding Icon](https://www.flaticon.com/free-icon/branding_2344490)
+  
+  **Note: All Icons and Fonts used in this website is Free for personal and commercial purpose with attribution.**
 
 
 
