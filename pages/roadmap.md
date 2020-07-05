@@ -1,6 +1,6 @@
 ---
 title : Roadmap
-subhead : The running wishlist and roadmap for the LBRY Foundation.
+subhead : The running wishlist and roadmap for the LBRY Foundation.🛣️
 bg-image : "../img/foundation-background-art.png"
 layout : default
 permalink : /roadmap/
