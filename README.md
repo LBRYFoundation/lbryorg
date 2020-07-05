@@ -38,6 +38,7 @@ For more details, see [CONTRIBUTING](CONTRIBUTING.md).
     - [Podcast Icon](https://www.flaticon.com/free-icon/podcast_3048452)
     - [Chat Icon](https://www.flaticon.com/free-icon/chat_2950648)
     - [Governance Icon](https://www.flaticon.com/free-icon/government_2983523)
+    - [Roadmap](https://www.flaticon.com/free-icon/road_3003621)
 
   - Icon made by [srip](https://www.flaticon.com/authors/srip) from [www.flaticon.com](https://www.flaticon.com/)
     - [Branding Icon](https://www.flaticon.com/free-icon/branding_2344490)
