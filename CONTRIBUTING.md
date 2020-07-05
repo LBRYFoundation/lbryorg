@@ -105,26 +105,31 @@ Adding new pages are easy as breathing [Well in most cases :stuck_out_tongue:] .
   blah blah blah
   The End
   ```
-
+  
+  
   
 
+
   
+- <u>**Step 2:**</u> Add in `./_includes/navlinks.html`
 
-- <u>**Step 2:**</u> Add in homepage
-
-  Open `index.html` in root directory . <br>
-
-  Scroll down to navbar section which starts and ends with `<!--Navbar Menu Links-->` comment <br>add a line `<a class="nav-item nav-link" href="./asinpermalink/">PageName</a> ` <br>
+  Scroll down to navbar section which starts and ends with `<!-- NavLinksPart for HOMEPAGE -->` comment <br>
+  
+  add a line `<a class="nav-item nav-link" href="./asinpermalink/">PageName</a> ` <br>
 
   Save :beer:
 
-- <u>**Step 3:**</u> Add in `./_layouts/default.html 
+- <u>**Step 3:**</u> Add in `./_includes/navlinks.html` 
 
-  Scroll down to navbar section which starts and ends with `<!--Navbar Menu Links-->` comment <br>
+  Scroll down to navbar section which starts and ends with `<!-- NavLinksPart for DefaultLayoutsPages -->` comment <br>
   
   add a line `<a class="nav-item nav-link" href="../asinpermalink/">PageName</a> ` <br>
   
-## Remember : In homepage there is one dot[.] in `<a>---href=""<a>` But in default.html there's TWO DOTS [.] 
+  ![NavLinks](https://i.imgur.com/fcqeZVy.png)
+  
+  
+  
+## Remember : In `NavLinksPart for HOMEPAGE` there is one dot[.] in `<a>---href=""<a>` But in `NavLinksPart for DefaultLayoutsPages` there's TWO DOTS [.] 
 
 So don't  copy paste same thing in two places :wink: .
 
