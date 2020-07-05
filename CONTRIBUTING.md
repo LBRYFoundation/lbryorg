@@ -129,7 +129,7 @@ Adding new pages are easy as breathing [Well in most cases :stuck_out_tongue:] .
   
   
   
-## Remember : In `NavLinksPart for HOMEPAGE` there is one dot[.] in `<a>---href=""<a>` But in `NavLinksPart for DefaultLayoutsPages` there's TWO DOTS [.] 
+## Remember : In `NavLinksPart for HOMEPAGE` there is one dot[./] in `<a>---href=""<a>` But in `NavLinksPart for DefaultLayoutsPages` there's TWO DOTS [../] 
 
 So don't  copy paste same thing in two places :wink: .
 
