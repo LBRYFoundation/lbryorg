@@ -11,10 +11,10 @@ permalink : /governance/
 --------------------
 
 
-|Jeremy Kauffman                               |Julie Sigwart	                                  |Jon Ringo                              |
-|----------------------------------------------|--------------------------------------------------------|---------------------------------------|
-|![JeremyKauffman!](../img/Jeremy-Kauffman.jpg)|![JulieSigwart!](../img/Julie-Sigwart.jpg)              |![JonRingo!](../img/Jon-Ringo.jpg)     |
-|CEO of LBRY Inc., and founding board member of LBRY Foundation Inc.| Community Director at LBRY Inc., and founding board member of LBRY Foundation Inc. | First community elected board member of LBRY Foundation, Inc. |
+|Jeremy Kauffman|Julie Sigwart|Jon Ringo|
+|---------------|-------------|---------|
+|![JeremyKauffman!](../img/Jeremy-Kauffman.jpg)|![JulieSigwart!](../img/Julie-Sigwart.jpg)|![JonRingo!](../img/Jon-Ringo.jpg)|
+|CEO of LBRY Inc., and founding board member of LBRY Foundation Inc.|Community Director at LBRY Inc., and founding board member of LBRY Foundation Inc.|First community elected board member of LBRY Foundation, Inc.|
 
 
 ------------------
