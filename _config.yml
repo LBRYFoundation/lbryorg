@@ -7,3 +7,9 @@ defaults:
 
 # Build Settings
 markdown: kramdown
+
+exclude:
+
+- CONTRIBUTING.md 
+- TODO.md
+- LICENSE
