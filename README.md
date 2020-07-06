@@ -1,6 +1,5 @@
 # [LBRY Foundation Website](https://lbry.org)
 
-(under devlopment)
  **The LBRY Foundation is a non-profit organization dedicated to the growth, development, and adoption of the LBRY network in a way that the community of LBRYians decides themselves**
 
 ![Screenshot](./img/lbry-foundation.JPG)
