@@ -29,7 +29,21 @@
       <!-- /jumbotron -->
 
       <div class="container-fluid above-parallax">
-        {{ content }}
+        {% if page.title == 'Governance' %}
+            <!-- Board of Directors -->
+            {% include boardofdirectors.html %}
+            <!-- /Board of Directors -->
+          {{ content }}
+          
+       {% elsif page.title == 'The Swarm' %}
+          {{ content }}
+            <!-- Foundations Hives-->
+            {% include hives.html %}
+            <!-- /Foundations Hives -->
+          
+       {% else %}
+         {{ content }}
+       {% endif %}          
       </div>
     </div>
        
@@ -42,10 +56,14 @@
     <!-- /globalParallaxContent -->
   </div>
   <!-- /globalParallax -->
+    
+  <!-- Hives Modals -->
+      {% include hivesmodals.html %}
+  <!-- /Hives Modals -->
   
   <!-- JSPart -->
     {% include js.html %}
-    <!-- /JSPart -->
+  <!-- /JSPart -->
             
         </body>
 </html>
