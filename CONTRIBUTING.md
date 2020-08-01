@@ -28,7 +28,7 @@ To do that :
 ----------
 - To clone locally you need [Git](https://git-scm.com/) . Or for easier Git management you can use [GitKraken](https://www.gitkraken.com/invite/gtG6Etur) <br>
 Clone address : <br>
- `https://github.com/LBRYians/lbry-org-new.git`
+ `https://github.com/LBRYFoundation/lbryorg.git`
  - Open the desired file in your favourite editor
  - Edit and save the changes
  - [Commit and Push](https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line)
