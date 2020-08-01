@@ -17,7 +17,7 @@
 3. This website uses [Jekyll](https://jekyllrb.com/). Read the [Jekyll Docs](https://jekyllrb.com/docs/) to develop locally.
 
 ## Usage
-Visit [LBRY Foundation](https://lbryians.github.io/lbry-org-new/) to see this repo in production.
+Visit [LBRY Foundation](https://lbryfoundation.github.io/lbryorg/) to see this repo in production.
 
 ## Contributing
 Contributions to this project are welcome, encouraged, and compensated.
