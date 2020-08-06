@@ -7,9 +7,9 @@ layout : default
 permalink : /tavern/
 ---
 
-So you have an idea that you want to bring into the LBRY network. Have you have fleshed out the details and determined its value if it succeeds?
-You know what needs to get done and how you will track completion of your goals... if only you had the resources and help to
-get it rolling.
+So you have an idea you want to bring into the LBRY network. You have fleshed out the details and determined its value if it succeeds.
+You know what needs to get done in what order and how you will track completion of your goals... if only you had the resources and help to
+get it rolling!
 
 # Welcome to The LBRY Tavern
 
