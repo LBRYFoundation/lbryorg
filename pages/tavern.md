@@ -13,7 +13,7 @@ get it rolling!
 
 # Welcome to The LBRY Tavern
 
-Where the LBRY Foundation and community gather to turn thoughts into things.
+Where the LBRY Foundation and community gather to turn ideas into reality.
 
 The LBRY Foundation uses its resources to support the LBRY network, community, and ecosystem.
 If you have an idea that will do just that, we want to help if we can. If we can’t help, maybe a hive or someone from the community can.
@@ -40,7 +40,7 @@ There are three tiers of funding for initiatives. Each tier has a maximum amount
 
 - Tier 3 : 800 USD
 
-You must complete one initiative of a lower tier before you can request funding from a higher tier. In other words, complete a task with 200 USD in order to ask for 400 USD, and complete a task with 10,000 LBC in order to ask for 800 USD.
+You must complete one initiative of a lower tier before you can request funding from a higher tier. In other words, complete a task with 200 USD in order to ask for 400 USD, and complete a task with 400 USD in order to ask for 800 USD.
 
 The amount requested will be converted to LBC based on the 30 day moving average price of LBC on the Bittrex exchange.
 
@@ -54,7 +54,7 @@ To request funding for your initiative follow these steps:
 
 To give your proposal a better chance of success, try to answer these questions:
 
-- What specific outcomes happen as a result of the funding?
+- What specific outcomes will happen as a result of the funding?
 - How do these outcomes bring value to the LBRY network?
 - How can success be measured?
 - How long will the project take?
@@ -81,4 +81,4 @@ Project grants should be fully detailed proposals with a clear vision, measurabl
 
 Projects that are supported by an extensive reputation and the experience from a “prototype” are much more likely to be given serious consideration. For the time being, project grants are reviewed by the Foundation Board every Tuesday. Responses are sent out within 48 hours of their review.
 
-To apply for a project grant, visit https://lbry.fund and submit a completed form.
+To apply for a project grant, visit [lbry.fund](https://lbry.fund) and submit a completed form.

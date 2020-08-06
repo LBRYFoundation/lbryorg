@@ -1,6 +1,6 @@
 ---
 title : Chat
-subhead : Join the LBRY Chatt💬.
+subhead : Join the LBRY Chat 💬
 bg-image : "../img/foundation-chat-background-art.png"
 meta-image : "https://lbry.org/img/chat-page-meta-img.png"
 layout : default
@@ -11,7 +11,7 @@ The main community chat is hosted via Discord and located at chat.lbry.org.
 Some Hives maintain separate chat rooms that can be discovered by checking the [list of Hives.](../swarm/#hives)
 
 # The Main Chat
-The main community discord is a massive chat server used by over 68000 community members.
+The main community Discord is a massive chat server used by over 47000 community members.
 There you can...
 
 - Explore and develop ideas
@@ -33,7 +33,7 @@ If the hive is listed as having a role on the LBRY discord, assign yourself one 
 
 # Other Things to Know
 
-If you are looking to create a hive, join the **#makeahive** channel and follow the instructions on the [Swarm](../swarm/) page of this wiki.
+If you are looking to create a hive, join the **#makeahive** channel and follow the instructions on the [Swarm](../swarm/) page.
 
 Don't be afraid to ask for help with anything in the **#help** channel.
 

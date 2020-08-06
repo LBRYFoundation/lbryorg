@@ -37,7 +37,7 @@ You could think of hives as subreddits on Reddit, or channels on an IRC server, 
 
 Joining or making a hive is a great way to jump into the LBRY network.
 
-Make some friends, learn some things, share some ideas, gain some experience, build a reputation, or just hang out with some like minded individuals.
+Make some friends, learn some things, share some ideas, gain some experience, build a reputation, or just hang out with like minded individuals.
 
 # How do I join a hive?
 

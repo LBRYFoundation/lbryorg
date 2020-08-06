@@ -1,6 +1,6 @@
 ---
 title : Governance
-subhead : The LBRY Foundation is US-based non-profit corporation governed by a board of directors.🏛️
+subhead : The LBRY Foundation is a US-based non-profit corporation governed by a board of directors 🏛️
 bg-image : "../img/foundation-governance-background-art.png"
 meta-image : "https://lbry.org/img/governance-page-meta-img.png"
 layout : default
