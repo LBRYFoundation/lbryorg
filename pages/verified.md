@@ -1,7 +1,8 @@
 ---
 title : Verified Creator
 subhead : Becoming a Verified Creator✔️.
-bg-image : "../img/foundation-background-art.png"
+bg-image : "../img/foundation-verified-background-art.png"
+meta-image : "https://lbry.org/img/foundation-verified-background-art.png"
 layout : default
 permalink : /verified/
 ---

@@ -2,6 +2,7 @@
 title : Podcast
 subhead : The LBRY Foundation Community Podcast🎙️.
 bg-image : "../img/foundation-podcast-background-art.png"
+meta-image : "https://lbry.org/img/podcast-page-meta-img.png"
 layout : default
 permalink : /podcast/
 ---

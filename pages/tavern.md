@@ -2,6 +2,7 @@
 title : The Tavern
 subhead : The LBRY Tavern. Cheers!🍺
 bg-image : "../img/foundation-tavern-background-art.png"
+meta-image : "https://lbry.org/img/tavern-page-meta-img.png"
 layout : default
 permalink : /tavern/
 ---
