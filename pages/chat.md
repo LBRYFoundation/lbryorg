@@ -2,6 +2,7 @@
 title : Chat
 subhead : Join the LBRY Chatt💬.
 bg-image : "../img/foundation-chat-background-art.png"
+meta-image : "https://lbry.org/img/chat-page-meta-img.png"
 layout : default
 permalink : /chat/
 ---
