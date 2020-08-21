@@ -40,6 +40,12 @@
             <!-- Foundations Hives-->
             {% include hives.html %}
             <!-- /Foundations Hives -->
+
+        {% elsif page.title == 'LBRY Arena' %}
+            {{ content }}
+              <!-- Past LBRY Arena Events-->
+              {% include arena_events.html %}
+              <!-- Past LBRY Arena Events -->
           
        {% else %}
          {{ content }}
@@ -60,6 +66,9 @@
   <!-- Hives Modals -->
       {% include hivesmodals.html %}
   <!-- /Hives Modals -->
+  <!--Arena Modals-->
+      {% include eventmodals.html %}
+<!--Arena Modals-->
   
   <!-- JSPart -->
     {% include js.html %}
