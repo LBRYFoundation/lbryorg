@@ -1,8 +1,8 @@
 ---
 title : LBRY Arena
 subhead : Greater joy awaits!🎉
-bg-image : "../img/foundation-swarm-background-art.png"
-meta-image : "https://lbry.org/img/home-page-meta-img.png"
+bg-image : "../img/foundation-arena-background-art.png"
+meta-image : "https://lbry.org/img/arena-page-meta-img.png"
 layout : default
 permalink : /arena/
 ---
