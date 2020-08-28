@@ -28,6 +28,7 @@ We may use the information we collect from you when you register, make a purchas
 * To quickly process your transactions.
 * To send periodic emails regarding your order or other products and services.
 * To follow up with them after correspondence (live chat, email or phone inquiries)
+
 ## How do we protect your information?
 
 * Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
@@ -66,8 +67,6 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 ### Google
 
-As part of LBRY Creator Verification, we will only use read-only access to verify the ownership of YouTube channels and will not transfer this data to others unless doing so is necessary to comply with applicable law, or as part of a merger, acquisition, or sale of assets.
-
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
@@ -83,6 +82,9 @@ We have implemented the following:
 
 ## Opting out:
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+## Google Forms
+We use Google Forms for manual input of data by users. Data input into Google Forms are subject to Google's Privacy policy liste [here](https://www.google.com/intl/en/policies/privacy/)
 
 ## California Online Privacy Protection Act
 
@@ -132,6 +134,7 @@ In order to be in line with Fair Information Practices we will take the followin
 ### We will notify you via email:
 
 Within 7 business days
+
 ### We will notify the users via in-site notification:
 
 Within 7 business days
