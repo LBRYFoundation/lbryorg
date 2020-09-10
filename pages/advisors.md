@@ -1,8 +1,8 @@
 ---
 title : Advisors Council
-subhead : The LBRY Tavern. Cheers!🍺
-bg-image : "../img/foundation-background-art.png"
-meta-image : "https://lbry.org/img/home-page-meta-img.png"
+subhead : The Advisors Council is a group of active LBRY community members that help the Foundation decide the direction of the LBRY Community as a whole.💸
+bg-image : "../img/foundation-advisors-background-art.png"
+meta-image : "https://lbry.org/img/advisors-page-meta-img.png"
 layout : default
 permalink : /advisors/
 ---
