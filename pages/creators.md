@@ -1,8 +1,8 @@
 ---
 title : Creators Council
 subhead : The Creators Council is a group of active Lbry creators🎥
-bg-image : "../img/foundation-background-art.png"
-meta-image : "https://lbry.org/img/home-page-meta-img.png"
+bg-image : "../img/foundation-creators-background-art.png"
+meta-image : "https://lbry.org/img/creators-page-meta-img.png"
 layout : default
 permalink : /creators/
 ---
