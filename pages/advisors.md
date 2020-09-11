@@ -10,6 +10,7 @@ permalink : /advisors/
 # Advisors Council 
 ---
 #### The Advisors Council is a group of active LBRY community members that help the Foundation decide the direction of the LBRY Community as a whole. This includes things like projects (such as The Tavern) and general design and flow of communication activities (Such as the Podcast and JAM Sessions).
+---
 
 
 ## How to become a member of the Advisors Council?
