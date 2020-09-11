@@ -48,15 +48,19 @@ permalink : /creators/
 - **Requisites:** 
 
   1. 2 weeks Active in Lbry
+  
   2. Minimum of 7 original uploads and at least 1 LbryExclusive
+  
   3. Less than 1k followers
 
 - **Rules:**
  
   1. Members can't nominate themselves
+  
   2. Once nominating a winner, a council member cannot nominate another creator until all other council members have nominated someone
 
- - **Nomination Period:** Friday-Wednesday 
+ - **Nomination Period:** Friday-Wednesday
+ 
  - **Voting Period:** Through Thursday
 
  - **Nomination process:**
