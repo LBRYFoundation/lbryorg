@@ -10,6 +10,7 @@ permalink : /creators/
 # Creators Council 
 ---
 #### The Creators Council is a group of active Lbry creators that helps the foundation make decisions and offers support to creators. The council has been granted 100k LBC granted by the Foundation to support a new creator every week through its Creator of the Week program. The council is also in charge of validating verified creators on the Foundation Discord server.
+---
 
 
 ## The Creators Council is formed by 9 people so far and they are:
