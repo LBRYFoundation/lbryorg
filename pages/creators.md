@@ -18,8 +18,7 @@ permalink : /creators/
 - @Letsfly | @Racecationtv
 - @vlad
 - @TheGamingDragon
-- @Marusame
-- @Sarah | lbry://@SarahCorriher 
+- @Marusame 
 - @TechDunk
 - @Kamots
 - @lbry://@AlexandreMarcotte777
