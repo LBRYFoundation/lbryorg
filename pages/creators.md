@@ -7,70 +7,63 @@ layout : default
 permalink : /creators/
 ---
 
-# Creators Council 
----
-#### The Creators Council is a group of active Lbry creators that helps the foundation make decisions and offers support to creators. The council has been granted 100k LBC granted by the Foundation to support a new creator every week through its Creator of the Week program. The council is also in charge of validating verified creators on the Foundation Discord server.
----
+# Creator's Council 
 
+#### What is the Creator's Council ?
 
-## The Creators Council is formed by 9 people so far and they are:
+The Creator's Council is a group of active Lbry creators that helps the foundation to make decisions about optimizing the support offered to the creators. The council is also in charge of validating verified creators and guide them the best way possible. 
 
-- @Letsfly | @Racecationtv
-- @vlad
-- @TheGamingDragon
-- @Marusame 
-- @TechDunk
-- @Kamots
-- @lbry://@AlexandreMarcotte777
-- @Mantega
+#### How to get in the council ? 
 
-## How to get in the council ?
+1. Must be a verified creator first 
+2. **Request** or be nominated by creator's council and voted by the council
+3.  Active in Lbry Discord (participating in important discussions)
 
-1. Must be a verified creator on the LBRY Foundation Discord server
+#### How to get expelled from the council ? 
+1. Inactivity in Lbry Foundation discord for 2 weeks without notification
+2. Voted out by the majority of the council 
 
-2. Must be nominated by a member of the creators council
+#### Expelling process 
+1. If inactive the member will be notified by DM
+2. If there is no reply for 2 days the member is out
+3. Expelled members can re-apply after one month and the council shall vote
 
-3. Must be approved by the majority of the creators council
+## Creators Council schedule
 
-4. Must be active on the Lbry Foundation Discord ( participating in important discussions )
+![](https://i.ibb.co/pddPXhk/Screenshot-1.jpg)
 
-## How to get expelled from the council ?
+# Creator of the Week 
 
-1. Inactivity in Lbry discord for 2 weeks without notification
+#### Creator of the week -Requisites : 
 
-2. Failure to participate in 2 consecutive Creator of the Week nomination cycles without notice
+1) 2 weeks Active in Lbry 
+2) Minimum of 7 original uploads **and 1 upload in the last 3 months** 
+3) Less than **5k** followers 
 
-3. Voted out by the majority of the council
+#### Nomination and Voting rules for Creator of the Week
+- Members can't nominate themselves 
+- Nomination Period : Friday-Wednesday 
+- Voting Period: till Thursday 
 
-## Creator of the week
+#### Nomination/Voting process: 
+##### Rules 
+- Only Creators Council members can nominate
+- Nominations turns ordered alphabetically 
+- You need to be at least Verified Creator to vote
+
+##### Process 
+1. Two CC members nominates 2 channels from Friday to Monday (and try contact) 
+2. CC post the current voting round in**#cotw-voting** channel
+3. The public (@verified creator to above) votes on the new COWT
+4. Announce winner on the podcast (Friday)
  
-- **Requisites:** 
+#### Support 
+1) Budget (200k LBC) 
+2) Creators Council Channel Post
 
-  1. 2 weeks Active in Lbry
-  
-  2. Minimum of 7 original uploads and at least 1 LbryExclusive
-  
-  3. Less than 1k followers
-
-- **Rules:**
+- How is it used :
  
-  1. Members can't nominate themselves
-  
-  2. Once nominating a winner, a council member cannot nominate another creator until all other council members have nominated someone
-
- - **Nomination Period:** Friday-Wednesday
- 
- - **Voting Period:** Through Thursday
-
- - **Nomination process:**
-
-  1. The creators council nominates two creators and votes on them.
-
-## Support Budget (100k LBC) 
-
-  - **How is it used:** 
-
-  1. one week support for the creator of the week
+1 week support for the voted creator on Channel and Content
   
 ## Recent COTW winners
   
