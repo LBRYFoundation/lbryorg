@@ -30,7 +30,7 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
 
 ## Creators Council schedule
 
-![](https://i.ibb.co/pddPXhk/Screenshot-1.jpg)
+![](https://i.ibb.co/d2HcpsP/Untitled-Diagram-3.png)
 
 # Creator of the Week 
 
