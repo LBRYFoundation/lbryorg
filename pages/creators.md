@@ -67,6 +67,6 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
   
 ## Recent COTW winners
   
-<iframe src="https://coindodo.io/embedded/cotw/all"
-     width="100%" height="415" style="border: 0;position: unset;">
+<iframe scrolling="no" src="https://coindodo.io/embedded/cotw/all"
+     width="100%" height="540" style="border: 0;position: unset;">
 </iframe>
