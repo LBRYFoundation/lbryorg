@@ -14,3 +14,10 @@
 - ~~Add a background in nav menu for mobile devices~~ [Commit: idk]
 - ~~Color Code in /Branding~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/c18670e26617b5657f631ab69a76cf15c81f42a4)
 - ~~Add roadmap page~~ [Commit](https://github.com/LBRYians/lbry-org-new/commit/1e8d7b4e46f669fcbba49ccef184da13edae5ae8)
+- Update Hives Info (update MDs) (vlad and jon)
+- Add [Foundation Neural Map](https://app.nuclino.com/LBRY-Foundation-Board/Foundation-Structure) (bounty) 
+- Add Hosting incentive Page ![](https://i.ibb.co/r6651tV/unknown.png) 
+- Add Board Members Page 
+- Update RoadMap (update Roadmap, john) 
+- Add funding 2.0 (after finished)
+
