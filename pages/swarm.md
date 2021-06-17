@@ -49,11 +49,13 @@ So how do you join? Find the hive you would like to join, find out how to join, 
 
 # How do I make a hive?
 
-Making a hive is as easy as setting up a chat room and editing a wiki. Actually, that’s the entire process!
+Making a hive is as easy as setting up a chat room and editing a wiki. Actually, that’s the entire process! Some Hives evolved to external discord servers, but they all started as a chat room on our community.
 
 All you need to do to make your own hive is to set up a chat room or forum and add your hive to the hives table on this wiki page.
 
 The easiest way to do this is to join the LBRY discord #makeahive channel and ask for you own hive role and channel. After a brief chat with a friendly moderator, you’ll have your own room and role made right on the LBRY discord. The LBRY discord is already a buzzing place so this is probably the best way to find more people for your new hive.
+
+
 
 # How should hives operate?
 
