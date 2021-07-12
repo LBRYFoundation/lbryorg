@@ -12,7 +12,7 @@ permalink : /governance/
 ------------------
 
 The first board election was the December 2019 Board Election, won by Jon Ringo.<br>
-The second board election was the December 2020 Board Election, won by Ralph Streb and Leo Rodrigues.</br>
+The second board election was the December 2020 Board Election, won by Ralph Streb and Leo Rodrigues.<br>
 The board is expected to be add several more members through 2021.<br>
 
 -------------------
